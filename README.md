@@ -9,8 +9,8 @@ Requires Sketch>=47.
 ```
 ├── color-palettes  # Requires Sketch Palettes plugin
 │  └── bootstrap.sketchpalette  # Bootstrap color palette used across COS products
-├── libraries
-│  └── common.sketch  # Common symbols used across products. Add this as a library
+├── libraries  # Library files. Add these in File / Add library...
+│  └── COS_Common.sketch  # Common symbols used across products
 ├── osf  
 │  └── ProjectOverview.sketch
 |  └── ... more pages
