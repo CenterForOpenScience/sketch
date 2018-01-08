@@ -11,7 +11,7 @@ Requires Sketch>=47.
 │  └── bootstrap.sketchpalette  # Bootstrap color palette used across COS products
 ├── libraries  # Library files. Add these in File / Add library...
 │  └── COS_Common.sketch  # Common symbols used across products
-├── osf  
+├── osf
 │  └── ProjectOverview.sketch
 |  └── ... more pages
 |  ... reviews, preprints, etc. will follow same structure as osf
@@ -25,10 +25,10 @@ Requires Sketch>=47.
     create one.
   1. Create a new branch, e.g. `new-files-widget`.
   1. Do great work.
-    - Be sure to add symbols to `libraries/common.sketch` when appropriate
+    - Be sure to add symbols to `libraries/COS_Common.sketch` when appropriate
     so that others can re-use them!
 - **Adding symbols?**
-  1. Open `libraries/common.sketch` and add your symbols.
+  1. Open `libraries/COS_Common.sketch` and add your symbols.
   1. Before committing, make sure to run "Plugins/Symbol Organizer/Run
      Symbol Organizer" (Cmd+Option+Control+O)
 
