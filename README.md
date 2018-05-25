@@ -2,7 +2,7 @@
 
 Shared Sketch files for COS.
 
-Requires Sketch>=47.
+Requires Sketch>=47 and [Kactus](https://kactus.io/).
 
 ## Project structure
 
@@ -11,26 +11,44 @@ Requires Sketch>=47.
 │  └── bootstrap.sketchpalette  # Bootstrap color palette used across COS products
 ├── libraries  # Library files. Add these in File / Add library...
 │  └── COS_Common.sketch  # Common symbols used across products
+│  └── COS_ember-osf.sketch  # Common symbols used across branded products (preprints, registries, etc.)
 ├── osf
-│  └── ProjectOverview.sketch
-|  └── ... more pages
-|  ... reviews, preprints, etc. will follow same structure as osf
+├── preprints
+├── reviews
+|  ... registries, collections, etc. will follow same structure
 ```
 
 ## Contributing
 
 - **Mocking up a new feature?**
-  1. Open the relevant sketch file, e.g. `osf/ProjectOverview.sketch`
-    - If a sketch file doesn't exist for the page you are mocking up,
+  - Create a new branch, e.g. `new-files-widget`.
+  - Open Kactus and generate the relevant sketch file.
+  - Open the sketch file, e.g. `osf.sketch`.
+    - If a sketch file doesn't exist for the product you are mocking up,
     create one.
-  1. Create a new branch, e.g. `new-files-widget`.
-  1. Do great work.
-    - Be sure to add symbols to `libraries/COS_Common.sketch` when appropriate
+    - Within a sketch file each [Page](https://www.sketchapp.com/docs/grouping/pages/) represents a page on the website and each [Artboard](https://www.sketchapp.com/docs/grouping/artboards/) is a view of that page.
+  - Do great work.
+    - Be sure to add symbols to libraries when appropriate
     so that others can re-use them!
 - **Adding symbols?**
   1. Open `libraries/COS_Common.sketch` and add your symbols.
   1. Before committing, make sure to run "Plugins/Symbol Organizer/Run
      Symbol Organizer" (Cmd+Option+Control+O)
+     
+## Initial setup
+- Install [Sketch](https://sketchapp.com/)
+- Install [Kactus](https://kactus.io/)
+- Install Open Sans
+    - Typeface used on COS products
+    - Can be installed using homebrew-cask:
+      ```
+      brew cask install font-opensans
+      ```
+- Install the required plugins listed below
+- Clone the repository
+- Open Kactus and generate the sketch files for the folders in `libraries/`
+- Open Sketch and add all libraries under `libraries/` see [Sketch docs on adding libraries](https://sketchapp.com/docs/libraries/adding-libraries)
+- You are ready to start creating mockups!
 
 
 ## Required plugins
