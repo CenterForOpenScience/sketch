@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "41DE8788-B77B-42B6-8877-4DE169EBDC10",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E90F89C-579E-4C09-9223-F5286939BF11",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E3FBABA1-3846-4C93-95AF-AA5EC3D8E092",
+    "height": 51,
+    "width": 1517,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navbar/studyswap/logged-in/desktop-hd",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CC6BDE5-55CB-4258-8561-1996B7346FF0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5F5357B8-48D4-417E-B762-6F2A523B512E",
+  "verticalSpacing": 0
+}

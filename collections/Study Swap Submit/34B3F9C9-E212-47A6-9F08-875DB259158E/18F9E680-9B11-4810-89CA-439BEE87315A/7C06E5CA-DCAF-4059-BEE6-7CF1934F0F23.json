@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7C06E5CA-DCAF-4059-BEE6-7CF1934F0F23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39A4F44D-4636-45D7-A999-662F39732F34",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10D73625-3DCB-49FD-9BDA-2915DD7824BB",
+    "height": 238,
+    "width": 1517,
+    "x": 1,
+    "y": 1610
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "footer/osf/desktop-hd",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8D64415-B929-413D-8641-CB7610137964",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7799F719-A4C7-4339-A9BF-C315160D04AD",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D45807F9-5945-49E6-A1FE-BD22AF74D884",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "485CADD9-ACA3-4BC1-913E-F64C310C396F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3244413D-0734-4AEE-AA87-F2965B06CF96",
+    "height": 51,
+    "width": 1517,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "APA/navbar/logged-in",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "054F4C32-A789-4FCC-9E30-FED3C1E141BB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E6C4DAC4-8E19-4068-BF92-0F4D34911838",
+  "verticalSpacing": 0
+}

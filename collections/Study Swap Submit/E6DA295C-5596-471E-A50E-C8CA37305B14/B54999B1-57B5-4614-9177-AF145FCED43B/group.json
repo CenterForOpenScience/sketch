@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "do_objectID": "B54999B1-57B5-4614-9177-AF145FCED43B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58F3CF5D-2D81-4B37-A8A4-6B31F92A3CC9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5098094C-870D-4120-B28C-41096C1E905F",
+    "height": 2556,
+    "width": 1517,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BAC176F8-D1A5-4778-830A-446D8EC85CC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76148894-CBB5-489F-AE51-6274A4CFBDA5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DC63A9F8-7467-4947-BBC8-0B30A031851A"
+    },
+    {
+      "class": "text",
+      "id": "701E53FD-21C9-401F-B7FB-E6F2830BCA2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9EF0DDB-AD81-4555-8258-EC5E2B503887"
+    }
+  ],
+  "name": "AddProjectPage",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5FBD7BE0-5A77-4B77-BE8F-9F8055CD4138",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
