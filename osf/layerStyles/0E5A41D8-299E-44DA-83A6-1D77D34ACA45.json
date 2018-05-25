@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "0E5A41D8-299E-44DA-83A6-1D77D34ACA45",
+  "name": "Annotation",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5435072779655457,
+          "green": 0.2812722045320855,
+          "red": 0.1652514934539795
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "0E5A41D8-299E-44DA-83A6-1D77D34ACA45",
+    "startDecorationType": 0
+  }
+}

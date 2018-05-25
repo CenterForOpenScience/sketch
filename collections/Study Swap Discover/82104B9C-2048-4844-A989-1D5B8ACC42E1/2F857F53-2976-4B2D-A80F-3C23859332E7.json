@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2F857F53-2976-4B2D-A80F-3C23859332E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 230,
+    "width": 749,
+    "x": 543,
+    "y": 2199
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "search-result/open-status",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7576AB75-668D-4CF4-BED5-4686126BDEAC_stringValue",
+      "value": "Last edited: Jan 21, 2018 UTC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A8632ABD-26CF-49A8-832E-3FFABCA6C91D_stringValue",
+      "value": "Bo Winegard, Cory J Clark, Connor R Hasty"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FDBF1F87-B7E7-4FF9-BBAA-6CD9BD1A9003_stringValue",
+      "value": "For a long time, many social scientists were convinced that Conservatives were more biased and more in need of explaining than Liberals. However, recent scholarship has challenged this assumption, contending that the predominance of Liberals in the social sciences might have caused social science to view Conservatives unfairly as alien and abnormal..."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2920243B-E869-41AC-863E-79E45650D460_stringValue",
+      "value": "Equalitarianism: A source of liberal bias"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C8A0B49F-95DF-4152-A704-6BAF65A02285_stringValue",
+      "value": "Have Participants"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "41A3E0E7-0786-40EC-A004-45AC8E66625B",
+  "verticalSpacing": 0
+}

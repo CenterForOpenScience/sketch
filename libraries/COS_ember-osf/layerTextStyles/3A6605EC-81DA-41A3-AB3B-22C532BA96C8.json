@@ -1,0 +1,32 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "3A6605EC-81DA-41A3-AB3B-22C532BA96C8",
+  "name": "#size-text",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "3A6605EC-81DA-41A3-AB3B-22C532BA96C8",
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue",
+            "size": 12
+          }
+        }
+      },
+      "verticalAlignment": 0
+    }
+  }
+}

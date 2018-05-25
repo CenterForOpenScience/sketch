@@ -1,0 +1,66 @@
+{
+  "_class": "page",
+  "do_objectID": "271ECC5F-0CB9-4944-8388-1CBB99173036",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -308,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "E6DA295C-5596-471E-A50E-C8CA37305B14"
+    },
+    {
+      "class": "artboard",
+      "id": "C4189AC1-8FDD-4D14-8D2D-7BD69B95D755"
+    },
+    {
+      "class": "artboard",
+      "id": "34B3F9C9-E212-47A6-9F08-875DB259158E"
+    }
+  ],
+  "name": "Study Swap Submit",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -192,
+    "guides": [
+    ]
+  }
+}
