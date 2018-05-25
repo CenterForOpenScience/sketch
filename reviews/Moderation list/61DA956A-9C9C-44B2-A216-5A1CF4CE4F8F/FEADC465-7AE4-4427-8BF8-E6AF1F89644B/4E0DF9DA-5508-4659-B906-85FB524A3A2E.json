@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 6,
-  "masterInfluenceEdgeMinXPadding": 4,
-  "masterInfluenceEdgeMinYPadding": 2,
   "name": "control-bar",
   "nameIsFixed": false,
   "overrideValues": [
@@ -37,9 +33,6 @@
       "value": "3 Pending"
     }
   ],
-  "overrides": {
-    "7C69F0DE-024B-4A7C-BA29-2F2EAF0B7D7B": "3 Pending"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

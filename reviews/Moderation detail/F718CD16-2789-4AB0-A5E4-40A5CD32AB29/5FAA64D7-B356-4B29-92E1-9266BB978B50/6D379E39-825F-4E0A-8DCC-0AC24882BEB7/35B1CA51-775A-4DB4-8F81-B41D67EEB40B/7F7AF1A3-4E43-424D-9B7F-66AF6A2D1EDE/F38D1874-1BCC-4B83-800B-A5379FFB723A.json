@@ -1,10 +1,36 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGXl9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFwcIDxAcHR4fJSs3Oj1ARExNTk9QVFhaVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAFoADbxEBXQBTAG8AYwBpAGEAbAAgAG0AbwB2AGUAbQBlAG4AdABzACAAdQBzAGUAIABzAG8AYwBpAGEAbAAgAGMAbwBtAHAAdQB0AGkAbgBnACAAcwB5AHMAdABlAG0AcwAgAHQAbwAgAGMAbwBtAHAAbABlAG0AZQBuAHQAIABvAGYAZgBsAGkAbgBlACAAbQBvAGIAaQBsAGkAegBhAHQAaQBvAG4AcwAsACAAYgB1AHQAIABwAHIAaQBvAHIAIABsAGkAdABlAHIAYQB0AHUAcgBlACAAaABhAHMAIABmAG8AYwB1AHMAZQBkACAAYQBsAG0AbwBzAHQAIABlAHgAYwBsAHUAcwBpAHYAZQBsAHkAIABvAG4AIABtAG8AdgBlAG0AZQBuAHQAIABhAGMAdABvAHIAcwAnACAAdQBzAGUAIABvAGYAIABzAG8AYwBpAGEAbAAgAG0AZQBkAGkAYQAuACAASQBuACAAdABoAGkAcwAgAHAAYQBwAGUAcgAsACAAdwBlACAAYQBuAGEAbAB5AHoAZQAgAHAAYQByAHQAaQBjAGkAcABhAHQAaQBvAG4AIABhAG4AZAAgAGEAdAB0AGUAbgB0AGkAbwBuACAAdABvACAAdABvAHAAaQBjAHMAIABjAG8AbgBuAGUAYwB0AGUAZAAgAHcAaQB0AGgAIAB0AGgAZQAgAEIAbABhAGMAawAgAEwAaQB2AGUAcwAgAE0AYQB0AHQAZQByACAAbQBvAHYAZQBtAGUAbgB0ACAAaQBuACAAdABoAGUAIABFAG4AZwBsAGkAcwBoACAAbABhAG4AZwB1AGEAZwBlACAAdgBlAHIAcwBpAG8AbgAgAG8AZgAgAFcAaQBrAGkAcABlAGQAaQBhACAAYgBlAHQAdwBlAGUAbgAgADIAMAAxADQAIABhAG4AZCAm0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgAmADYAVV05TQ29sb3JfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMgIQoiIyRVTlNSR0JcTlNDb2xvclNwYWNlTxAnMC4yOTAyMjE2MzE1IDAuMjkwMTc1Mjg4OSAwLjI5MDIzNzQ1NjYAEAGACNImJygpWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqIoKlhOU09iamVjdNYsLS4vCjAxMjM0NTRfEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHMjQCQAAAAAAACAABAEgAqADIAK0hIKODmggAvSJic7PFdOU0FycmF5ojsq0iYnPj9fEBBOU1BhcmFncmFwaFN0eWxloj4q0gpBQkNfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AUgA7TERIKRUhLokZHgA+AEKJJSoARgBKAE18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXUhlbHZldGljYU5ldWXSJidRUl8QE05TTXV0YWJsZURpY3Rpb25hcnmjUVMqXE5TRGljdGlvbmFyedImJ1VWXxAQTlNGb250RGVzY3JpcHRvcqJXKl8QEE5TRm9udERlc2NyaXB0b3LSJidTWaJTKtImJ1tcXxASTlNBdHRyaWJ1dGVkU3RyaW5nol0qXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WBhVHJvb3SAAQAIABEAGgAjAC0AMgA3AFEAVwBeAGcAbgB7AH0AfwCBAz8DRgNOA1kDXQNfA2EDYwNnA2kDawNtA28DdwOKA6wDswO5A8YD8APyA/QD+QQEBA0EFQQYBCEELgRDBE4EWgRnBHMEfAR+BIAEggSEBIYEiwSMBI4EkwSbBJ4EowS2BLkEvgTbBN0E3wTmBOkE6wTtBPAE8gT0BPYFDAUiBSsFOQU+BVQFWAVlBWoFfQWABZMFmAWbBaAFtQW4Bc0F3wXiBecAAAAAAAACAQAAAAAAAABiAAAAAAAAAAAAAAAAAAAF6Q=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2902374566,
+            "green": 0.2901752889,
+            "red": 0.2902216315
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0,
+            "paragraphSpacing": 10
+          }
+        },
+        "length": 349,
+        "location": 0
+      }
+    ],
+    "string": "Social movements use social computing systems to complement offline mobilizations, but prior literature has focused almost exclusively on movement actors' use of social media. In this paper, we analyze participation and attention to topics connected with the Black Lives Matter movement in the English language version of Wikipedia between 2014 and…"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "F38D1874-1BCC-4B83-800B-A5379FFB723A",
@@ -27,7 +53,6 @@
     "y": 43
   },
   "glyphBounds": "{{0, 2}, {420, 94}}",
-  "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -48,14 +73,24 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2902374566,
+          "green": 0.2901752889,
+          "red": 0.2902216315
+        },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAF1IZWx2ZXRpY2FOZXVl0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue",
+            "size": 14
+          }
         },
-        "NSColor": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OVU5TUkdCXE5TQ29sb3JTcGFjZVYkY2xhc3NPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAC0hAREhNaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA2Q=="
-        },
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBUZH1UkbnVsbNYJCgsMDQ4PEBESExJfEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3NWJGNsYXNzW05TVGV4dExpc3RzI0AkAAAAAAAAgAAQBIACgASAAtIWDRcYWk5TLm9iamVjdHOggAPSGhscHVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiHB5YTlNPYmplY3TSGhsgIV8QEE5TUGFyYWdyYXBoU3R5bGWiIB5fEA9OU0tleWVkQXJjaGl2ZXLRJCVUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFAAZQBwAHwAiQCQAJwApQCnAKkAqwCtAK8AtAC/AMAAwgDHANIA2wDjAOYA7wD0AQcBCgEcAR8BJAAAAAAAAAIBAAAAAAAAACYAAAAAAAAAAAAAAAAAAAEm"
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0,
+          "paragraphSpacing": 10
         }
       },
       "verticalAlignment": 0

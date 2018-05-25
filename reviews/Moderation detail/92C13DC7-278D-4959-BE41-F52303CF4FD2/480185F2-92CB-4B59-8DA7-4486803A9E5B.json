@@ -24,16 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 5,
-  "masterInfluenceEdgeMaxYPadding": 7,
-  "masterInfluenceEdgeMinXPadding": 5,
-  "masterInfluenceEdgeMinYPadding": 3,
   "name": "comment-section/accept",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "overrides": {
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

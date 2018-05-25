@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 568,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "reviews-tabs/moderation",
   "nameIsFixed": false,
   "overrideValues": [
@@ -37,9 +33,6 @@
       "value": "3"
     }
   ],
-  "overrides": {
-    "E0C7169F-8368-4D6A-8B56-7E02925A3956": "3"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

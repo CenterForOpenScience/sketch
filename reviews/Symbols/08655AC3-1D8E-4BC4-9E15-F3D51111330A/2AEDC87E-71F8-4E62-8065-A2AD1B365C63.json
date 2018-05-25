@@ -1,10 +1,60 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGjo9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIQcIERIYIyQlJi4yOTxGSUxPU1tcXV5fY2dpc3Z+f4KGilUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAHoADgCBvEDYAUgBlAHYAaQBlAHcAcwAgAEQAYQBzAGgAYgBvAGEAcgBkACAAIAAgACAAIABTAG8AYwBBAHIAWABpAHYAIAAgACAAIAAgAEIAbABhAGMAawAgAEwAaQB2AGUAcwAgAE0AYQB0AHQAZQByICbSEwwUF1pOUy5vYmplY3RzohUWgASAGYAd0xkTDBoeIldOUy5rZXlzoxscHYAFgAaAB6MfICGACIAMgBCAGFdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUJygpDCorLC1VTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC45ODgyMzUyOTQxIDAuOTg4MjM1Mjk0MSAwLjk4ODIzNTI5NDEAEAGACYAL0i8MMDFUTlNJRBABgArSMzQ1NlokY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaI3OFxOU0NvbG9yU3BhY2VYTlNPYmplY3TSMzQ6O1dOU0NvbG9yojo41T0+DD9AQUJDRERaTlNUYWJTdG9wc1tOU0FsaWdubWVudFxOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHOAABAEgA+ADYAN0hMMR0iggA7SMzRKS1dOU0FycmF5oko40jM0TU5fEBBOU1BhcmFncmFwaFN0eWxlok040gxQUVJfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AXgBHTGRMMVFdaolVWgBKAE6JYWYAUgBWAFl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXUhlbHZldGljYU5ldWXSMzRgYV8QE05TTXV0YWJsZURpY3Rpb25hcnmjYGI4XE5TRGljdGlvbmFyedIzNGRlXxAQTlNGb250RGVzY3JpcHRvcqJmOF8QEE5TRm9udERlc2NyaXB0b3LSMzRiaKJiONMZEwxqbiKjGxwdgAWABoAHox8gcYAIgAyAGoAY0gxQUXWAF4Ab0xkTDHd6WqJVVoASgBOiWHyAFIAcgBZfEBJIZWx2ZXRpY2FOZXVlLUJvbGTSMzSAgV5OU011dGFibGVBcnJheaOASjjSgwyEhVdOUy5kYXRhRCMAEwGAH9IzNIeIXU5TTXV0YWJsZURhdGGjh4k4Vk5TRGF0YdIzNIuMXxASTlNBdHRyaWJ1dGVkU3RyaW5noo04XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0ZCRVHJvb3SAAQAIABEAGgAjAC0AMgA3AFsAYQBqAHMAhQCSAJkAmwCdAJ8AoQEQARUBIAEjASUBJwEpATABOAE8AT4BQAFCAUYBSAFKAUwBTgFWAWkBiwGUAZoBpwG8AeYB6AHqAewB8QH2AfgB+gH/AgoCEwIgAiMCMAI5Aj4CRgJJAlQCXwJrAngChAKGAogCigKMAo4CkwKUApYCmwKjAqYCqwK+AsECxgLjAuUC5wLuAvEC8wL1AvgC+gL8Av4DFAMqAzMDQQNGA1wDYANtA3IDhQOIA5sDoAOjA6oDrgOwA7IDtAO4A7oDvAO+A8ADxQPHA8kD0APTA9UD1wPaA9wD3gPgA/UD+gQJBA0EEgQaBB8EIQQmBDQEOAQ/BEQEWQRcBHEEgwSGBIsAAAAAAAACAQAAAAAAAACSAAAAAAAAAAAAAAAAAAAEjQ=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.9882352941,
+            "green": 0.9882352941,
+            "red": 0.9882352941
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 35,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.9882352941,
+            "green": 0.9882352941,
+            "red": 0.9882352941
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "HelveticaNeue-Bold",
+              "size": 14
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 19,
+        "location": 35
+      }
+    ],
+    "string": "Reviews Dashboard     SocArXiv     Black Lives Matter…"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2AEDC87E-71F8-4E62-8065-A2AD1B365C63",
@@ -27,7 +77,6 @@
     "y": 0
   },
   "glyphBounds": "{{1, 3}, {357, 12}}",
-  "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -48,14 +97,23 @@
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9882352941,
+          "green": 0.9882352941,
+          "red": 0.9882352941
+        },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAF1IZWx2ZXRpY2FOZXVl0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "HelveticaNeue",
+            "size": 14
+          }
         },
-        "NSColor": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVHFUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzTxAnMC45ODgyMzUyOTQxIDAuOTg4MjM1Mjk0MSAwLjk4ODIzNTI5NDEAEAGAAoAE0hIMExRUTlNJRBABgAPSFhcYGVokY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIaG1xOU0NvbG9yU3BhY2VYTlNPYmplY3TSFhcdHldOU0NvbG9yoh0bXxAPTlNLZXllZEFyY2hpdmVy0SEiVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBMAFIAXwB0AHsApQCnAKkAqwCwALUAtwC5AL4AyQDSAN8A4gDvAPgA/QEFAQgBGgEdASIAAAAAAAACAQAAAAAAAAAjAAAAAAAAAAAAAAAAAAABJA=="
-        },
-        "NSParagraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGICFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHVUkbnVsbNUJCgsMDQ4PEBERWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRWJGNsYXNzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c4AAEASABIACgALSFAsVFlpOUy5vYmplY3RzoIAD0hgZGhtaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ohocWE5TT2JqZWN00hgZHh9fEBBOU1BhcmFncmFwaFN0eWxloh4cXxAPTlNLZXllZEFyY2hpdmVy0SIjVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBOAFkAZQBsAHkAhQCHAIkAiwCNAI8AlACfAKAAogCnALIAuwDDAMYAzwDUAOcA6gD8AP8BBAAAAAAAAAIBAAAAAAAAACQAAAAAAAAAAAAAAAAAAAEG"
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0

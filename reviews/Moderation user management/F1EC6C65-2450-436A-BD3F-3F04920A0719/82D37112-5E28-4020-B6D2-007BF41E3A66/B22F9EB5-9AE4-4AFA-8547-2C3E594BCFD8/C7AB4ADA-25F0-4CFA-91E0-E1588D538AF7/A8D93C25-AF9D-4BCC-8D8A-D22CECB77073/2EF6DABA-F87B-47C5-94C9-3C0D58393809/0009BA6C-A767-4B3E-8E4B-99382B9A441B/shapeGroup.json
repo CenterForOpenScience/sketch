@@ -73,7 +73,6 @@
           "elipseLength": 1,
           "from": "{0.5, 0.5}",
           "gradientType": 0,
-          "shouldSmoothenOpacity": false,
           "stops": [
             {
               "_class": "gradientStop",
@@ -102,7 +101,7 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/ebd92f518202a26a588b639a2ffd30f4f45097ba",
+          "_ref": "images/ebd92f518202a26a588b639a2ffd30f4f45097ba.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 107,
+  "changeIdentifier": 109,
   "do_objectID": "F80F7467-2073-4F3E-B1D3-DBC4C0D8B349",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,13 +39,14 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
-      "id": "7BB235B3-9558-4EDF-A736-35F2046F7978"
+      "id": "1340973E-AD9B-4CC1-9836-0B930A86A041"
     }
   ],
   "name": "control-bar/pending",
