@@ -31123,8 +31123,8 @@
   },
   "pages": [
     "Project Overview - Public, viewing as non-contributor",
-    "Collections Project Overview - Public",
     "Project Overview - Private, viewing as non-contributor (error page)",
+    "Project Overview - Collections, Public",
     "Symbols"
   ]
 }
