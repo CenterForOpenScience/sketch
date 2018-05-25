@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGS0xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEgcIDxAaGxwmLTE5Ojs8PUFFR1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBGAA11kcm9wZG93bi1tZW510xESChMWGVdOUy5rZXlzWk5TLm9iamVjdHOiFBWABIAFohcYgAaACIAQXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXWHR4fCiAhIiMkJSIkW05TQWxpZ25tZW50Wk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0EAGAACNAOAAAAAAAAIAH0icoKSpaJGNsYXNzbmFtZVgkY2xhc3Nlc18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloykrLF8QEE5TUGFyYWdyYXBoU3R5bGVYTlNPYmplY3TSCi4vMF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgA+ACdMREgoyNTiiMzSACoALojY3gAyADYAOXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDQAAAAAAABfEBJIZWx2ZXRpY2FOZXVlLUJvbGTSJyg+P18QE05TTXV0YWJsZURpY3Rpb25hcnmjPkAsXE5TRGljdGlvbmFyedInKEJDXxAQTlNGb250RGVzY3JpcHRvcqJELF8QEE5TRm9udERlc2NyaXB0b3LSJyhARqJALNInKEhJXxASTlNBdHRyaWJ1dGVkU3RyaW5nokosXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0U1OVHJvb3SAAQAIABEAGgAjAC0AMgA3AEwAUgBZAGIAaQB2AHgAegB8AIoAkQCZAKQApwCpAKsArgCwALIAtADHAOkA9gECAQ0BHwFBAVMBVQFXAWABYgFnAXIBewGVAZkBrAG1AboB1wHZAdsB4gHlAecB6QHsAe4B8AHyAggCHgInAjwCQQJXAlsCaAJtAoACgwKWApsCngKjArgCuwLQAuIC5QLqAAAAAAAAAgEAAAAAAAAATwAAAAAAAAAAAAAAAAAAAuw="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "AC023383-49A0-46DA-9170-1396B3325B83",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 159,
+    "x": 128,
+    "y": 3575
+  },
+  "glyphBounds": "{{0, 5}, {158, 19}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "dropdown-menu",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "B6D70304-300A-486B-A85A-37DA68A7795E"
+  },
+  "textBehaviour": 0
+}

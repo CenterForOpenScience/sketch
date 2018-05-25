@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "B7A33865-2E79-4367-890A-49BC181B4F8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 335,
+    "width": 894,
+    "x": 273,
+    "y": 678
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DB1002C0-30FF-404A-84EF-D4E6F6250BF6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A0370360-27E7-40D5-85F8-1D116005A653"
+    },
+    {
+      "class": "text",
+      "id": "BA4E1775-217C-4D6E-9BDE-7A9ED5560219"
+    },
+    {
+      "class": "text",
+      "id": "DABB53B1-43F0-4CB8-A29A-E8C3437F48AA"
+    },
+    {
+      "class": "text",
+      "id": "032AE261-A4D7-48A7-B888-7B065A78A915"
+    },
+    {
+      "class": "text",
+      "id": "D6329177-C17A-421B-AFF9-0E0402E9D9DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93BCEBB0-85B5-49EB-8052-0A4AFF5A1985"
+    },
+    {
+      "class": "text",
+      "id": "B30EA28E-5563-4D8B-8323-951B434F7B3C"
+    },
+    {
+      "class": "text",
+      "id": "34DE4D21-945B-4E90-ADAA-D69F973C13B6"
+    },
+    {
+      "class": "text",
+      "id": "36AC92CB-1D9A-4AE7-BC36-1DDA9BE584B1"
+    },
+    {
+      "class": "text",
+      "id": "5E9E46A4-B524-4217-A7B5-DCD2356048E3"
+    },
+    {
+      "class": "text",
+      "id": "851F4D42-665F-41A1-AE7B-44299C8AD169"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "982FC060-F874-4813-BEB0-DA88814EA2CC"
+    },
+    {
+      "class": "text",
+      "id": "701666DC-18C1-4DA7-9B11-740EB777CAC3"
+    },
+    {
+      "class": "text",
+      "id": "1EF4089B-67A3-47F9-8A15-D9DE35631A3F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D11772E6-3222-4622-A1B2-2DEB78E5C172"
+    }
+  ],
+  "name": "basics-block",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

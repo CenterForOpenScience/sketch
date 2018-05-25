@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "21109A78-D0B9-4FCC-95C4-F15FF95B290B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 95,
+    "width": 274,
+    "x": 631,
+    "y": 89
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D3BC49F7-00D2-4A3C-935B-63A317AA83E9"
+    },
+    {
+      "class": "text",
+      "id": "0EDF1BC6-3B79-43D4-BBDA-D9955F4177AE"
+    },
+    {
+      "class": "text",
+      "id": "FB881930-16AF-49CC-8BCF-EBEE0FC99C39"
+    },
+    {
+      "class": "text",
+      "id": "E19528E4-0DB0-4E53-A9B9-47B8051E77A7"
+    },
+    {
+      "class": "text",
+      "id": "E757C977-BF05-4497-8985-505AA7270B71"
+    }
+  ],
+  "name": "LicenseField",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

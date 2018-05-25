@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "FD43070D-B772-4C87-BAEB-268880473053",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1260,
+    "width": 1440,
+    "x": 0,
+    "y": 213
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "506084B2-3872-4142-853B-E08440D3E910"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EDE5D374-B33D-4EEE-A347-7159BC611176"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D175197E-14F2-488B-BC0E-4AB0B40AD94D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0015CD2-3051-4D62-BF10-483F54F1E40B"
+    }
+  ],
+  "name": "container-padding",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

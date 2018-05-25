@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "C5766053-741A-4010-91F9-BEAF8C381786",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 212,
+    "x": 7,
+    "y": 107
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E2B7DB3A-6B4B-47A2-B279-F0362F7A7EBF"
+    },
+    {
+      "class": "text",
+      "id": "D4DDA8E0-FA86-4663-9837-008E452506F7"
+    }
+  ],
+  "name": "thesis-commons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

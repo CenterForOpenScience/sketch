@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "1112D3C1-0101-44B5-B822-4A9AAE2AA683",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 337,
+    "x": 25,
+    "y": 66
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7E605799-C350-4BB6-BFCF-E673439368AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D0A4B68-F82A-4839-8CA8-F5277D7980C6"
+    },
+    {
+      "class": "text",
+      "id": "D3CB4BAB-A435-4644-9394-862893205F41"
+    },
+    {
+      "class": "text",
+      "id": "AC4AD1E8-5FA4-490F-859D-8202BA733197"
+    }
+  ],
+  "name": "life-sciences-checkbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGYWJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOUJGSlJTVFVWWV1VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEMlUaGlzIGFuIGludHJvZHVjdGlvbiB0ZXh0LiBJdCBoYXMgYSBmaXhlZCBzaXplLCBhbmQgYSBjdXN0b20gbGluZSBoZWlnaHQsIHNvIHlvdSBjYW4gZXhwZXJpbWVudCB3aXRoIGl0LiBMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0LiBDcmFzIGRhcGlidXMgdnVscHV0YXRlIGRpYW0gZXUgcHJldGl1bS7TERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYATgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/Skv2/+JfGIz/wAAAAAAAAIz/Sk0AgCvVCIz/Skjtf+7PY0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TVOjs8Cj0+P0BBQFtOU0FsaWdubWVudFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XxAPTlNNYXhMaW5lSGVpZ2h0EASAACNAOgAAAAAAAIAS0jQ1Q0RfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNDRThfEBBOU1BhcmFncmFwaFN0eWxl0gpHSElfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AagBTTERIKS05RokxNgBWAFqJPUIAXgBiAGV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AyAAAAAAAAXUhlbHZldGljYU5ldWXSNDVXWF8QE05TTXV0YWJsZURpY3Rpb25hcnmjVzY40jQ1WltfEBBOU0ZvbnREZXNjcmlwdG9yolw4XxAQTlNGb250RGVzY3JpcHRvctI0NV5fXxASTlNBdHRyaWJ1dGVkU3RyaW5nomA4XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WNkVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAVIBWQFhAWwBcAFyAXQBdgF6AXwBfgGAAYIBrwHCAeQB6wHwAfIB9AH2AfgB/QH/AgECAwIFAgcCCwIRAhYCHAIlAi4CNwJAAkUCUAJZAmYCaQJyAn0CiQKUAqYCuAK6ArwCxQLHAswC5gLqAv0DAgMfAyEDIwMqAy0DLwMxAzQDNgM4AzoDUANmA28DfQOCA5gDnAOhA7QDtwPKA88D5APnA/wEDgQRBBYAAAAAAAACAQAAAAAAAABlAAAAAAAAAAAAAAAAAAAEGA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "A391BC35-6310-489E-AD08-2FAAF186BCEF",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 106.0159912109375,
+    "width": 500,
+    "x": 50,
+    "y": 423
+  },
+  "glyphBounds": "{{0, 9}, {496, 97}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "This an introduction",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "17DEBC2B-4F49-4824-AE4D-D06C4A26C955"
+  },
+  "textBehaviour": 1
+}

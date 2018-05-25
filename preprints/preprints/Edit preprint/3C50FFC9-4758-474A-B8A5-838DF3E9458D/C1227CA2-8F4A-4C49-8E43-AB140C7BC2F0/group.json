@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "C1227CA2-8F4A-4C49-8E43-AB140C7BC2F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 335,
+    "width": 894,
+    "x": 273,
+    "y": 678
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "384B93A1-6CC8-41BF-AF38-C5E1691C3E98"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8BCCA1FB-E536-482C-8D9A-6479E124D731"
+    },
+    {
+      "class": "text",
+      "id": "AEE1A4CA-0C64-4E27-B2AE-5F2A40F49C09"
+    },
+    {
+      "class": "text",
+      "id": "F1996780-9BDB-4C8C-A0FC-CE047B9F2DF0"
+    },
+    {
+      "class": "text",
+      "id": "F4A1505D-5A69-408B-AFAA-779C1882F18B"
+    },
+    {
+      "class": "text",
+      "id": "9E48AD31-2F3A-4538-8521-795046997BE8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C2EF4304-04C5-4D7A-A1D1-618A6218CB20"
+    },
+    {
+      "class": "text",
+      "id": "FB8CC861-0ADD-4FC0-8AAE-B5950B29D75B"
+    },
+    {
+      "class": "text",
+      "id": "EEAF5476-DFB6-4A71-BE16-80A42005658C"
+    },
+    {
+      "class": "text",
+      "id": "B2976B6E-2910-42DA-8EA1-50C71FA8AC51"
+    },
+    {
+      "class": "text",
+      "id": "D28005C2-038E-45C8-AF87-786B8F1DA10E"
+    },
+    {
+      "class": "text",
+      "id": "D2BA9E4A-3FC3-4C60-9101-5C141BA0A758"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C3D5C2BD-1DB4-4B63-91FC-079544EEB6D5"
+    },
+    {
+      "class": "text",
+      "id": "0CAFA359-E9F1-4401-AEE5-F414C06131DE"
+    },
+    {
+      "class": "text",
+      "id": "0670FC5A-3DA8-46D6-BDD3-8358E8C64BBF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "055791C4-C917-4484-954F-FA4909F10067"
+    }
+  ],
+  "name": "basics-block",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

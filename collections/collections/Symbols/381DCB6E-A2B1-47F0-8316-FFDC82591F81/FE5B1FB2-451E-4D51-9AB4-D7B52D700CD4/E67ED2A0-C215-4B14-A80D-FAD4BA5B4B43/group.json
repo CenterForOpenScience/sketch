@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "E67ED2A0-C215-4B14-A80D-FAD4BA5B4B43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 337,
+    "x": 25,
+    "y": 234
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AC396F81-B1AA-4AE3-93A6-143503265465"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2246AC00-78DB-4290-AF3F-07B18949C069"
+    },
+    {
+      "class": "text",
+      "id": "938B9F7D-B72A-46E5-A12F-92107D6A175A"
+    },
+    {
+      "class": "text",
+      "id": "6C3A9575-81E1-4705-AAD8-143559F2C5F4"
+    }
+  ],
+  "name": "physical-mathematics-checkbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

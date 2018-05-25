@@ -1,0 +1,107 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "90B512FA-80A6-4EBF-A1DC-74C645128A96",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "CC90852B-FB6D-46AE-8027-DE8F629AAC42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7E2153D-C040-48C0-80B3-4B44EBB04023",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BD2C69A-3A56-42E2-904B-0920D1373D18",
+    "height": 1812,
+    "width": 1518,
+    "x": -112,
+    "y": 151
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A907B0BB-9722-4447-958C-21DFAAD0FD18",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D08CBF3A-3A9C-4FF8-BB65-8B964351E4C3"
+    },
+    {
+      "class": "group",
+      "id": "132D1DC2-5BD2-41E1-BC35-38D6D5951862"
+    },
+    {
+      "class": "group",
+      "id": "DC968E64-DA7B-4847-98C4-64079D613ECA"
+    },
+    {
+      "class": "group",
+      "id": "3F2B0BDA-0613-4CFA-AB8A-1564420F3E67"
+    },
+    {
+      "class": "group",
+      "id": "BB7A7AC6-0B6A-4CA7-BDBB-B142D49EBA31"
+    },
+    {
+      "class": "group",
+      "id": "DE937F54-8988-4DC7-A8AD-EE22B007188B"
+    },
+    {
+      "class": "group",
+      "id": "A5D0AF35-F419-4101-A523-52066ECB1705"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4F5F28C-A2DD-4606-B7A4-ECD3C7F788D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D6C1836-D9EE-405A-A003-96F086C66F10"
+    }
+  ],
+  "name": "apaSubmit-no-project-contrib-tooltip",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60F223B0-D0C4-4826-B4EC-B449FC820231",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8479BBFB-4983-4334-B0D0-05761D36EF62",
+    "guides": [
+    ]
+  }
+}

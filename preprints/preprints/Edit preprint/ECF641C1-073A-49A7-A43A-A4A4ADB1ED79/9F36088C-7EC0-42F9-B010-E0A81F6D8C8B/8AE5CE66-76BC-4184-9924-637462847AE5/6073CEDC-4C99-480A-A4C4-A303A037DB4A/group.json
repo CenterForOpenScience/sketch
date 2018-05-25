@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6073CEDC-4C99-480A-A4C4-A303A037DB4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 277,
+    "x": 582,
+    "y": 35
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "31BC0775-DCD4-4522-94C3-207A79569AF3"
+    },
+    {
+      "class": "text",
+      "id": "1F5B5C2C-E918-4FBC-9C14-9A2240E5C504"
+    },
+    {
+      "class": "text",
+      "id": "BA3AD3AA-4406-4616-85D0-F252BF65B3F8"
+    },
+    {
+      "class": "text",
+      "id": "00AEDD70-410B-47F2-BB98-07B198C0A8E6"
+    }
+  ],
+  "name": "socarxiv-info",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

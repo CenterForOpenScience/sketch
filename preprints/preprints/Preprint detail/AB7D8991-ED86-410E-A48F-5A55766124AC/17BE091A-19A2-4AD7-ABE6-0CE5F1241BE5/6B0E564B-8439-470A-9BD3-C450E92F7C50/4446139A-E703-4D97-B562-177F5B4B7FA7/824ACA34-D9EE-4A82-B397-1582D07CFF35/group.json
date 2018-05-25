@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "824ACA34-D9EE-4A82-B397-1582D07CFF35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 277,
+    "x": 582,
+    "y": 35
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "45C9DE84-FDA5-453C-8C2F-1F3161CF6550"
+    },
+    {
+      "class": "text",
+      "id": "7C9A37A4-F1E3-4C61-82CC-D7160AE51DE2"
+    },
+    {
+      "class": "text",
+      "id": "7F07A844-691F-41F2-9C60-447D4238CD34"
+    },
+    {
+      "class": "text",
+      "id": "ABF2B747-4A51-4F2C-9D2F-B8D35C3E9D6B"
+    }
+  ],
+  "name": "socarxiv-info",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT9CRk5PUFFSVVlVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANvEBcAaAAyACAgFAAgAFQAaABpAHMAIABpAHMAIABhACAAcwB1AGIAdABpAHQAbABl0xESChMXG1dOUy5rZXlzWk5TLm9iamVjdHOjFBUWgASABYAGoxgZGoAHgBGAE4AQXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXTERIKICUbpCEiIySACIAJgAqAC6QmJygpgAyADYAOgA+AEFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/0pL9v/iXxiM/8AAAAAAAACM/0pNAIAr1QiM/0pI7X/uz2NI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5ojY4WE5TT2JqZWN00zoKOzw9PlpOU1RhYlN0b3BzW05TQWxpZ25tZW50gACAEhAE0jQ1QEFfEBBOU1BhcmFncmFwaFN0eWxlokA40gpDREVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AagBTTERIKR0pNokhJgBWAFqJLTIAXgBiAGV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0A+AAAAAAAAXxASSGVsdmV0aWNhTmV1ZS1Cb2xk0jQ1U1RfEBNOU011dGFibGVEaWN0aW9uYXJ5o1M2ONI0NVZXXxAQTlNGb250RGVzY3JpcHRvcqJYOF8QEE5TRm9udERlc2NyaXB0b3LSNDVaW18QEk5TQXR0cmlidXRlZFN0cmluZ6JcOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFfYFRyb290gAEACAARABoAIwAtADIANwBWAFwAYwBsAHMAgACCAIQAhgC3AL4AxgDRANUA1wDZANsA3wDhAOMA5QDnARQBJwFJAVABVQFXAVkBWwFdAWIBZAFmAWgBagFsAXABdgF7AYEBigGTAZwBpQGqAbUBvgHLAc4B1wHeAekB9QH3AfkB+wIAAhMCFgIbAjgCOgI8AkMCRgJIAkoCTQJPAlECUwJpAn8CiAKdAqICuAK8AsEC1ALXAuoC7wMEAwcDHAMuAzEDNgAAAAAAAAIBAAAAAAAAAGEAAAAAAAAAAAAAAAAAAAM4"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "46FED9A1-1BA9-406D-BE9C-C09DACC2246A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 314,
+    "x": 50,
+    "y": 253
+  },
+  "glyphBounds": "{{1, 7}, {312, 23}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "h2 — This is a subti",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "8AB6138B-0662-4B06-827B-BC9D597013EC"
+  },
+  "textBehaviour": 0
+}
