@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "C1B0DE8D-3733-4149-90A1-14E937055666",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1916,
+    "width": 1440,
+    "x": 4987,
+    "y": -274
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "7B955ED5-777E-4000-8F47-5453161347F5"
+    },
+    {
+      "class": "bitmap",
+      "id": "AA083A0A-D589-43F5-BBC8-6AE1A6D2749B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4939FDB3-625B-43EA-890E-901825888892"
+    },
+    {
+      "class": "group",
+      "id": "2E74AC3E-8EA2-45B3-A0FC-5F5DF4614BF5"
+    },
+    {
+      "class": "group",
+      "id": "2587FE5B-6D08-43C5-9741-E6AC2B79C6A1"
+    },
+    {
+      "class": "group",
+      "id": "A7862F89-E485-489F-B8A1-F2A7CD68B6B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F70738F9-2209-4AC6-B5EB-35FD396E7973"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "567D17D8-9301-485C-BD68-A2988A00CE11"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D92C6661-9B0B-4138-A152-F1F3317956A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41BFC750-07F4-4DFF-9DC3-2E31384C603B"
+    }
+  ],
+  "name": "moderation-settings",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

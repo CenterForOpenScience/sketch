@@ -1,0 +1,95 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "81B1E258-D140-47A8-B4E6-F5C39825BAE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1253,
+    "width": 1440,
+    "x": 6670,
+    "y": -363
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7704B3B8-DBB9-4AF9-83E9-70B675C338AA"
+    },
+    {
+      "class": "group",
+      "id": "9213E302-4144-4FF4-829E-3F7958AFE3D4"
+    },
+    {
+      "class": "group",
+      "id": "74EC9A69-311E-478A-9801-7ED75E04FAFD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F82CF600-E2D5-4574-8BE8-278CCADD59B0"
+    },
+    {
+      "class": "text",
+      "id": "F47DD6F6-6328-477D-B947-0584F016F401"
+    },
+    {
+      "class": "text",
+      "id": "7C376426-CE96-4B19-A80F-B2C201496358"
+    }
+  ],
+  "name": "preprint-detail-pending",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

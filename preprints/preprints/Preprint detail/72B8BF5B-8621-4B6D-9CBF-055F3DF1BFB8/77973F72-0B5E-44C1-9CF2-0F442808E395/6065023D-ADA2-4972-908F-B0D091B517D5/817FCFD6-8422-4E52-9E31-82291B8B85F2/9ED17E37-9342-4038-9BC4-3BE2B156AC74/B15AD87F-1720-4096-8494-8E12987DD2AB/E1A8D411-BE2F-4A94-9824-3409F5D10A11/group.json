@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "do_objectID": "E1A8D411-BE2F-4A94-9824-3409F5D10A11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 127,
+    "width": 430,
+    "x": 0,
+    "y": 46
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B05A0EF5-9DD0-4D19-B561-C43C8F5DCB17"
+    },
+    {
+      "class": "group",
+      "id": "DA52C408-9DFB-4ACF-8156-148A08085821"
+    },
+    {
+      "class": "group",
+      "id": "AEB89F84-7818-49CA-8823-1664C585FE19"
+    },
+    {
+      "class": "group",
+      "id": "C6587BE9-CA04-42E5-AF86-3891B96B6C6B"
+    },
+    {
+      "class": "group",
+      "id": "E01A942E-73FB-4EA6-A378-87A8E3674486"
+    },
+    {
+      "class": "group",
+      "id": "B5B7A38A-DD2A-4439-A2BD-7F5F1535CD49"
+    },
+    {
+      "class": "group",
+      "id": "A4357188-F0DB-4CFC-B417-C7BFB7FA5926"
+    },
+    {
+      "class": "group",
+      "id": "3600C5E1-CF77-40DC-B06A-C24A40AEE4B4"
+    },
+    {
+      "class": "group",
+      "id": "A809B82D-D1B3-4002-B603-1768E927B991"
+    },
+    {
+      "class": "group",
+      "id": "465F026D-24D5-4759-9C4B-BB3C5A9D6060"
+    },
+    {
+      "class": "group",
+      "id": "D154C1D7-9291-4D2C-8B6E-DE42943485B3"
+    },
+    {
+      "class": "group",
+      "id": "A18C8B0C-BD27-43F1-9F00-4F688401B162"
+    },
+    {
+      "class": "group",
+      "id": "620C8F1E-7B99-4CA2-8D75-6AD2D457F7D5"
+    }
+  ],
+  "name": "tags",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

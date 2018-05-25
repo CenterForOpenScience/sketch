@@ -1,0 +1,82 @@
+{
+  "_class": "page",
+  "do_objectID": "80BBC79F-D1A2-4E1B-B1AA-87EC21A712F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26D43837-B25E-49CA-8055-DB833075C246",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2A23DAEF-13F4-40B6-8C95-C26DDDDC5AC9",
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "18A021E3-B328-4D2A-A230-582DE02E1677",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -921,
+    "do_objectID": "FB45199D-CD01-4587-8352-EEE25C12BE88",
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "13B4CABF-B069-4F28-9CB6-C31623DED378"
+    },
+    {
+      "class": "artboard",
+      "id": "A746427D-31D3-479A-9C54-AF6E56D9C42E"
+    },
+    {
+      "class": "artboard",
+      "id": "C19AC5E5-DD96-44CC-BE72-0024A8FB5048"
+    },
+    {
+      "class": "artboard",
+      "id": "D6808E1F-188F-47F7-981F-03AE6BE58B7A"
+    }
+  ],
+  "name": "Preprint detail tombstone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F92CB4BD-6CED-4700-B53E-2802939DB921",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -546,
+    "do_objectID": "770A52A7-2C65-445E-999C-0082504D06F4",
+    "guides": [
+    ]
+  }
+}

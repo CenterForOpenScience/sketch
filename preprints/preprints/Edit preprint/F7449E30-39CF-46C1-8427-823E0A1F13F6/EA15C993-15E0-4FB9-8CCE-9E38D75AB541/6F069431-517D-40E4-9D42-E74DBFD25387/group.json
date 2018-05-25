@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "6F069431-517D-40E4-9D42-E74DBFD25387",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 116,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "69F5D86C-0186-4F3A-965E-652FD6546AB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B3E95438-64C7-4DA8-AE53-DB0557B060FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "23270322-B765-4156-A26C-5B2704AC501D"
+    },
+    {
+      "class": "text",
+      "id": "ED27FBD8-A739-4870-BBE4-B5740F885E3C"
+    },
+    {
+      "class": "group",
+      "id": "A796EA48-1634-4C8E-96B3-E69E358E3293"
+    }
+  ],
+  "name": "footer-thesiscommons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

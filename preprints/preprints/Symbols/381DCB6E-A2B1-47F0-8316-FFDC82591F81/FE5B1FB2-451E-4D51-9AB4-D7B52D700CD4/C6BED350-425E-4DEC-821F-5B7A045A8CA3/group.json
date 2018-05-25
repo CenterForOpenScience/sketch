@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C6BED350-425E-4DEC-821F-5B7A045A8CA3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 337,
+    "x": 25,
+    "y": 66
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "253544B5-8E03-40A4-A271-724C2D01C197"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E8652D0-FED5-4428-BC90-8164E891B4A2"
+    },
+    {
+      "class": "text",
+      "id": "28FE409E-4279-4AEF-902A-F08994F0E978"
+    },
+    {
+      "class": "text",
+      "id": "BA50A3F2-A752-4FD0-8581-F7C461227374"
+    }
+  ],
+  "name": "arts-humanities-checkbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

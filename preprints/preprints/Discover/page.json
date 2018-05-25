@@ -1,0 +1,72 @@
+{
+  "_class": "page",
+  "do_objectID": "36AA3C37-F9F5-4456-8CE7-2FA3A101DAB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -215,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "BA2236F0-3DAE-4C3E-BF4D-B523D7DD8138"
+    },
+    {
+      "class": "artboard",
+      "id": "13DDB7F6-1721-4AD5-AF9A-142A259288EC"
+    },
+    {
+      "class": "artboard",
+      "id": "3C39B0F4-D2F5-4CC7-BE1E-AED0C56A0B7B"
+    }
+  ],
+  "name": "Discover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -157,
+    "guides": [
+    ]
+  }
+}

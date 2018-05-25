@@ -1,0 +1,98 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F1EC6C65-2450-436A-BD3F-3F04920A0719",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1339,
+    "width": 1440,
+    "x": 510,
+    "y": 3801
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "067348F5-48A6-4364-ABF3-04B38CDEC8C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50CA4A66-3175-4151-AB6D-6AAC2DE82D79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13434F69-5395-4849-9B61-482C1C9346C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07CF1299-CA80-45CF-A031-D51627996E2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F73E4F3B-9C29-46BF-A838-8381DC67771A"
+    },
+    {
+      "class": "group",
+      "id": "82D37112-5E28-4020-B6D2-007BF41E3A66"
+    },
+    {
+      "class": "group",
+      "id": "DCB9A1A4-179D-4644-9664-5A85C7D5EA26"
+    }
+  ],
+  "name": "collaborators-tab-add-search-hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

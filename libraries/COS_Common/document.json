@@ -1,0 +1,460 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3607843137254902,
+        "green": 0.7215686274509804,
+        "red": 0.3607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2980392156862745,
+        "green": 0.6823529411764706,
+        "red": 0.2980392156862745
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9333333333333333,
+        "green": 0.9333333333333333,
+        "red": 0.9333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8980392156862745,
+        "green": 0.8980392156862745,
+        "red": 0.8980392156862745
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3333333333333333,
+        "green": 0.3333333333333333,
+        "red": 0.3333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2,
+        "green": 0.2,
+        "red": 0.2
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2784313725490196,
+        "green": 0.2235294117647059,
+        "red": 0.1490196078431373
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7176470588235294,
+        "green": 0.4784313725490192,
+        "red": 0.2000000000000001
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6431372549019607,
+        "green": 0.4274509803921568,
+        "red": 0.1803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3607843137254902,
+        "green": 0.7215686274509804,
+        "red": 0.3607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2980392156862745,
+        "green": 0.6823529411764706,
+        "red": 0.2980392156862745
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3098039215686274,
+        "green": 0.3254901960784314,
+        "red": 0.8509803921568627
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2274509803921568,
+        "green": 0.2470588235294117,
+        "red": 0.8313725490196078
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8705882430076599,
+        "green": 0.7529411911964417,
+        "red": 0.3568627536296844
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8549019694328308,
+        "green": 0.7215686440467834,
+        "red": 0.2745098173618317
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8901960849761963,
+        "green": 0.9725490212440491,
+        "red": 0.9882352948188782
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.800000011920929,
+        "green": 0.9215686321258545,
+        "red": 0.9803921580314636
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2313725501298904,
+        "green": 0.4274509847164154,
+        "red": 0.5411764979362488
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8705882430076599,
+        "green": 0.8705882430076599,
+        "red": 0.9490196108818054
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8196078538894653,
+        "green": 0.800000011920929,
+        "red": 0.9215686321258545
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2588235437870026,
+        "green": 0.2666666805744171,
+        "red": 0.6627451181411743
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8470588326454163,
+        "green": 0.9411764740943909,
+        "red": 0.8745098114013672
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8470588326454163,
+        "green": 0.9411764740943909,
+        "red": 0.8745098114013672
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.239215686917305,
+        "green": 0.4627451002597809,
+        "red": 0.2352941185235977
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9686274509803922,
+        "green": 0.9294117647058824,
+        "red": 0.8509803921568627
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9450980392156862,
+        "green": 0.9098039215686273,
+        "red": 0.7372549019607844
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5607843137254902,
+        "green": 0.4392156862745099,
+        "red": 0.192156862745098
+      }
+    ],
+    "gradients": [
+      {
+        "_class": "gradient",
+        "elipseLength": 1,
+        "from": "{0.5, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.316233366727829,
+              "green": 0.9267898797988892,
+              "red": 0.7063087821006775
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.1297717094421387,
+              "green": 0.5777633190155029,
+              "red": 0.2585623264312744
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 1}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 1,
+        "from": "{0.5, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.3813633322715759,
+              "green": 0.8522508144378662,
+              "red": 0.981171190738678
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.1101252809166908,
+              "green": 0.4202542304992676,
+              "red": 0.968022882938385
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 1}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 1,
+        "from": "{0.5, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.374436616897583,
+              "green": 0.317264050245285,
+              "red": 0.9606321454048157
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.1070586666464806,
+              "green": 0.01541697140783072,
+              "red": 0.623913049697876
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 1}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 1,
+        "from": "{0, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.6812630891799927,
+              "green": 0.1368522942066193,
+              "red": 0.1894279420375824
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.8446085453033447,
+              "green": 0.4293425381183624,
+              "red": 0.7855268716812134
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1.0199999809265137, 1.0099999904632568}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 1,
+        "from": "{0.0025781251024454832, 0.49750000238418579}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.6812630891799927,
+              "green": 0.1368522942066193,
+              "red": 0.1894279420375824
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.993859589099884,
+              "green": 0.628136157989502,
+              "red": 0.3244115710258484
+            },
+            "position": 0.4752475321292877
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0.316233366727829,
+              "green": 0.9267898797988892,
+              "red": 0.7063087821006775
+            },
+            "position": 1
+          }
+        ],
+        "to": "{1.0125781297683716, 0.49750000238418579}"
+      },
+      {
+        "_class": "gradient",
+        "elipseLength": 1,
+        "from": "{0.5, 0}",
+        "gradientType": 0,
+        "stops": [
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 0,
+              "blue": 0,
+              "green": 0,
+              "red": 0
+            },
+            "position": 0
+          },
+          {
+            "_class": "gradientStop",
+            "color": {
+              "_class": "color",
+              "alpha": 1,
+              "blue": 0,
+              "green": 0,
+              "red": 0
+            },
+            "position": 1
+          }
+        ],
+        "to": "{0.5, 1}"
+      }
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/853732577995ec08625706620b0235b0184b90e8",
+        "_ref_class": "MSImageData"
+      },
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/55f4a1a0e02fd4b3744db89f9a6168d67eedda93",
+        "_ref_class": "MSImageData"
+      },
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bf3d954d069a92776da0c33ad11d474d6af78460",
+        "_ref_class": "MSImageData"
+      },
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0a8c78938d6882d923de69e4c86ce2ff643c755e",
+        "_ref_class": "MSImageData"
+      },
+      {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4ace07aa5d5a9d6055cf98735cd9f515ca8b0585",
+        "_ref_class": "MSImageData"
+      }
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "A8A27A94-E10C-4F08-80E0-2DBAEF504456",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49.3",
+    "build": 51167,
+    "version": 101
+  },
+  "pages": [
+    "Symbols",
+    "Typography"
+  ]
+}

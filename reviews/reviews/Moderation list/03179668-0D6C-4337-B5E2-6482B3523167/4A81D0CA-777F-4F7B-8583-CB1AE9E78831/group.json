@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "4A81D0CA-777F-4F7B-8583-CB1AE9E78831",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 858,
+    "x": 291,
+    "y": 240
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7815634C-82BA-4EF9-879C-EC31B895456B"
+    },
+    {
+      "class": "group",
+      "id": "5FBC431C-E932-4926-8463-029C5490E6E8"
+    },
+    {
+      "class": "group",
+      "id": "A0A57810-B0D5-4CFF-B917-D2F7931EB96F"
+    },
+    {
+      "class": "group",
+      "id": "D5DB9179-13F3-4CB9-9075-AC0F973DCE07"
+    },
+    {
+      "class": "group",
+      "id": "D11E310D-D235-4D33-BF7F-43A2935B6DF3"
+    }
+  ],
+  "name": "control-bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

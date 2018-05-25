@@ -1,0 +1,46 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXV5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAcHR4fKywtLi8wMTIzOT9CRk5PUFFSVVlVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANvEB8AaAA0ACAgFAAgAFQAaABpAHMAIABpAHMAIABhACAAcwBlAGMAdABpAG8AbgAgAHMAdQBiAHQAaQB0AGwAZdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBOAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP9KS/b/4l8YjP/AAAAAAAAAjP9KTQCAK9UIjP9KSO1/7s9jSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNM6Cjs8PT5aTlNUYWJTdG9wc1tOU0FsaWdubWVudIAAgBIQBNI0NUBBXxAQTlNQYXJhZ3JhcGhTdHlsZaJAONIKQ0RFXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGoAU0xESCkdKTaJISYAVgBaiS0yAF4AYgBlfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAF8QEkhlbHZldGljYU5ldWUtQm9sZNI0NVNUXxATTlNNdXRhYmxlRGljdGlvbmFyeaNTNjjSNDVWV18QEE5TRm9udERlc2NyaXB0b3KiWDhfEBBOU0ZvbnREZXNjcmlwdG9y0jQ1WltfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiXDhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRX2BUcm9vdIABAAgAEQAaACMALQAyADcAVgBcAGMAbABzAIAAggCEAIYAxwDOANYA4QDlAOcA6QDrAO8A8QDzAPUA9wEkATcBWQFgAWUBZwFpAWsBbQFyAXQBdgF4AXoBfAGAAYYBiwGRAZoBowGsAbUBugHFAc4B2wHeAecB7gH5AgUCBwIJAgsCEAIjAiYCKwJIAkoCTAJTAlYCWAJaAl0CXwJhAmMCeQKPApgCrQKyAsgCzALRAuQC5wL6Av8DFAMXAywDPgNBA0YAAAAAAAACAQAAAAAAAABhAAAAAAAAAAAAAAAAAAADSA=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "BA363A5B-63F9-4BB0-83CD-25343DCC8BC5",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 285,
+    "x": 50,
+    "y": 365
+  },
+  "glyphBounds": "{{1, 5}, {283, 16}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 0,
+  "name": "h4 — This is a secti",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "7E35A188-1B6D-42AF-819F-00C2E806C6DE"
+  },
+  "textBehaviour": 0
+}
