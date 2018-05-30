@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 271,
+  "changeIdentifier": 280,
   "do_objectID": "6652F149-601B-40DB-9967-32EEDBB808B9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 54,
     "width": 1118,
     "x": 2436,
-    "y": 1777
+    "y": 7024
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "769F338D-2590-4282-B74E-3ACBBAA0A4AD"
     }
   ],
-  "name": "control-bar/rejected",
+  "name": "submissions-control-bar/rejected",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

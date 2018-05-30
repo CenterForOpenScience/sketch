@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 165,
-    "width": 872,
+    "height": 166,
+    "width": 1202,
     "x": 0,
     "y": 0
   },
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -32,9 +32,17 @@
     {
       "class": "shapeGroup",
       "id": "B49FA249-98FB-4AFC-8EC7-C36E9E098114"
+    },
+    {
+      "class": "text",
+      "id": "624CD326-5B8F-4BF9-A427-3E0FD9912D54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBE6EB98-20A9-45C4-B361-0EC9A7471FE0"
     }
   ],
-  "name": "tabs-moderation",
+  "name": "tabs-submissions",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

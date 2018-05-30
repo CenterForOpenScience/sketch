@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3880,
+  "changeIdentifier": 3888,
   "do_objectID": "361507B0-5867-477C-A209-BBA18C531428",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 60,
     "width": 1440,
-    "x": 1540,
-    "y": 2260
+    "x": 1774,
+    "y": 1777
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -53,7 +53,7 @@
       "id": "618C7E1F-79DD-4425-A74F-C1F19CE8F916"
     }
   ],
-  "name": "moderation-detail/editor-bar/pending",
+  "name": "moderation-detail/editor-bar-pending",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

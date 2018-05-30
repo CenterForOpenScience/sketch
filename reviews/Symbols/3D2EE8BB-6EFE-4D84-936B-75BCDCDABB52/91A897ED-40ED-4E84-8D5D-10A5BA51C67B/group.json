@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 163,
-    "width": 885,
+    "width": 1202,
     "x": 0,
     "y": 0
   },
@@ -23,19 +23,27 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
-      "id": "5671EFBB-08C4-458F-87D1-0A7136A42D81"
+      "id": "5B7E8E7A-5B19-453A-801B-1B725FFB77FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E01FF474-CDE1-4247-B96E-01EFA48900DD"
+    },
+    {
+      "class": "text",
+      "id": "BE6AB4FE-B20E-4881-8216-DC6DC3211A5A"
     },
     {
       "class": "symbolInstance",
-      "id": "38F4002E-D8C1-4C11-8725-4B4705DC558C"
+      "id": "5C301369-592A-440B-81A0-EC7143123897"
     }
   ],
-  "name": "reviews-tabs/settings",
-  "nameIsFixed": false,
+  "name": "reviews-tabs/moderators",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "581E6915-7E03-47FE-AE4A-CC126A02BDD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23004A08-ACFB-4099-B0C2-52DCBD894F44",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4786E7B0-751F-4DE2-BFE8-DCCC189F1143",
+    "height": 60,
+    "width": 1440,
+    "x": 0,
+    "y": 216
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "moderation/detail/editor-bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B3A27B8-F2CE-4BF7-A441-C53D95C43E48",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B105A381-4296-45C3-B607-9D616FBACA12",
+  "verticalSpacing": 0
+}
