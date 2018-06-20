@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "DDBC29D4-4076-4229-8838-F7EE63550E84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "032B338D-DF49-43D9-A315-0827323229E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EC19CDE9-41C1-498C-965E-CDC34735AB1C",
+    "height": 55,
+    "width": 1440,
+    "x": 0,
+    "y": 51
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BF70AE65-FD01-4846-B1D0-C022956D3E40"
+    },
+    {
+      "class": "text",
+      "id": "3BE33AA0-0CFD-4DAC-B938-8A70711E6053"
+    },
+    {
+      "class": "group",
+      "id": "537A60C3-B4DB-4C2F-BFBC-2E10B58F4C02"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF9118A1-9AE1-4F8B-8504-1C1A512260A6"
+    }
+  ],
+  "name": "navbar/osf/osf/project-navbar-non-contributor",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3007ED8-4791-4709-A98D-EEC386EC1C55",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
