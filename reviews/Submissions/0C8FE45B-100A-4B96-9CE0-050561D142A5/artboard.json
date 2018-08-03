@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "0C8FE45B-100A-4B96-9CE0-050561D142A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1422,
+    "width": 1440,
+    "x": 13893,
+    "y": -7535
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "330C56A0-E584-4B46-BAC8-1A5E33CB0038"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "085164E7-5C30-402C-86E4-14BD9DCA225F"
+    },
+    {
+      "class": "group",
+      "id": "153FDAFA-1CA4-4E5A-89A7-EA4F73152F3B"
+    },
+    {
+      "class": "group",
+      "id": "06B0E1DA-15E2-48BC-AF0F-74E1A08094EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A09745E-35F7-418C-A28B-A6DF651F1930"
+    },
+    {
+      "class": "group",
+      "id": "612CAE75-ECF7-42DD-B7AC-8463373A6F40"
+    },
+    {
+      "class": "group",
+      "id": "CB49FB71-BCD0-45DE-AECF-B724E179D53E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8C483AD8-8329-4A22-8DD5-907AD852A266"
+    }
+  ],
+  "name": "moderation-v2-accepted",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 163,
-    "width": 886,
+    "width": 1202,
     "x": 0,
     "y": 0
   },
@@ -27,15 +27,23 @@
   "layers": [
     {
       "class": "group",
-      "id": "535CAE28-AB6C-4E12-8EBE-2A3BCD32C310"
+      "id": "5F34D9DA-F7D3-4708-9347-37A1E41FAA89"
+    },
+    {
+      "class": "text",
+      "id": "6B345EA8-F202-437E-8363-CA009D95147C"
     },
     {
       "class": "symbolInstance",
-      "id": "B71D6869-5222-406C-B63F-0272AE037DC1"
+      "id": "74AADF9A-05ED-43E2-9BED-FEE968213FFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "59CD05EB-E43E-4F4A-B7A3-B9EFA42588D7"
     }
   ],
-  "name": "reviews-tabs/settings",
-  "nameIsFixed": false,
+  "name": "reviews-tabs/notifications",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

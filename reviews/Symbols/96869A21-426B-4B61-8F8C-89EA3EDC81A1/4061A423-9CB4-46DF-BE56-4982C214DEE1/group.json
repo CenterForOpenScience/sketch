@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 163,
-    "width": 871,
+    "height": 166,
+    "width": 1202,
     "x": 0,
     "y": 0
   },
@@ -23,15 +23,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "3AC57195-8F8C-429E-AA36-5F37112CEF3D"
     },
     {
+      "class": "text",
+      "id": "C0315DF8-EFA6-43BC-8047-F6E8FDBCF968"
+    },
+    {
       "class": "shapeGroup",
       "id": "690F8069-43E7-421D-9882-F0696B88C1AE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBB9B449-E43E-4B50-BFBE-D5DC1DB937A9"
     }
   ],
   "name": "tabs-settings",

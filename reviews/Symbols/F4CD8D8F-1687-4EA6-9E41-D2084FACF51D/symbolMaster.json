@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 369,
+  "changeIdentifier": 379,
   "do_objectID": "F4CD8D8F-1687-4EA6-9E41-D2084FACF51D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 54,
     "width": 1118,
     "x": 0,
-    "y": 1777
+    "y": 7024
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -39,16 +39,17 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
-      "id": "60B33B9B-A596-47B2-AA60-B7FC8F89E903"
+      "id": "E7BED2E6-5962-4B2D-B27E-420DF507436A"
     }
   ],
-  "name": "control-bar/accepted",
+  "name": "submissions-control-bar/accepted",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

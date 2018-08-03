@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "button/moderation-setup",
   "nameIsFixed": false,
   "overrideValues": [
@@ -37,9 +33,6 @@
       "value": "Start moderating"
     }
   ],
-  "overrides": {
-    "7B4CABAD-B720-4F06-A106-97550820F516": "Start moderating"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

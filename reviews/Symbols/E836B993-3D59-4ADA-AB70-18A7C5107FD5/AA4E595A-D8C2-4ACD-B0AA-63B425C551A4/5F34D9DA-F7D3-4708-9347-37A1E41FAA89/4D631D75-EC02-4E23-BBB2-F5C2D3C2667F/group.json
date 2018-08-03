@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "4D631D75-EC02-4E23-BBB2-F5C2D3C2667F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 57,
+    "width": 192,
+    "x": 719,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9AFF6E2D-81E9-49F0-9F25-F5E2CF7FD9B1"
+    },
+    {
+      "class": "text",
+      "id": "A0A54181-52A2-4D52-A593-0F589E6C8633"
+    }
+  ],
+  "name": "tab-notifications",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

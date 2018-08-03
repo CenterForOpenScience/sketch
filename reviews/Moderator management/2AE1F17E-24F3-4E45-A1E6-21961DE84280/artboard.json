@@ -1,0 +1,99 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "2AE1F17E-24F3-4E45-A1E6-21961DE84280",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1339,
+    "width": 1440,
+    "x": 510,
+    "y": 6844
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "8B1FD539-4FF8-4FD4-9B21-16906DF7044C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4FA59892-98E5-45DC-97DE-540937E7E8CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E58C36A8-32EC-4543-BA13-E3E735DACDBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6420A92-A123-47CD-B8EE-0689291EDD40"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16632D61-6158-466D-9F7C-586F30DE495A"
+    },
+    {
+      "class": "group",
+      "id": "D07738C1-6C9C-4041-900C-946435654D4D"
+    },
+    {
+      "class": "group",
+      "id": "DF82A4D3-5F81-41DD-A350-9D6B838EB11D"
+    }
+  ],
+  "name": "collaborators-tab-add-dropdown",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

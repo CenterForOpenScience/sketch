@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 527,
+  "changeIdentifier": 532,
   "do_objectID": "8C16B05B-890E-48DA-9633-AC800AA20939",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 29,
     "width": 134,
     "x": 0,
-    "y": 2031
+    "y": 1777
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,

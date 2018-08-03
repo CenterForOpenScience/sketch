@@ -7,7 +7,7 @@
     "green": 0.2666666666666667,
     "red": 0.2666666666666667
   },
-  "changeIdentifier": 3231,
+  "changeIdentifier": 5973,
   "do_objectID": "D375B793-1B90-45C8-9F34-E5A2A9A4105B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 165,
-    "width": 872,
-    "x": 2942,
-    "y": 4479
+    "height": 166,
+    "width": 1202,
+    "x": 3906,
+    "y": 3996
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -39,9 +39,10 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -50,10 +51,6 @@
     {
       "class": "group",
       "id": "DF8C7D0C-BB55-4550-A27D-75A87B3611A5"
-    },
-    {
-      "class": "group",
-      "id": "8B938EDF-5995-4DD6-A6B2-04FB5B97EBD1"
     }
   ],
   "name": "reviews-tabs/submissions",

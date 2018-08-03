@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 236,
+  "changeIdentifier": 244,
   "do_objectID": "CBFF8CC9-6F06-433F-A193-22DC4DA100E6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 60,
     "width": 1440,
-    "x": 0,
-    "y": 2260
+    "x": 234,
+    "y": 1777
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
@@ -48,7 +49,7 @@
       "id": "AFBFF800-896C-4DF3-9E35-004836E6021C"
     }
   ],
-  "name": "moderation-detail/editor-bar/accepted",
+  "name": "moderation-detail/editor-bar-accepted",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
