@@ -34,6 +34,7 @@
     "string": "The Review Of Disinter-mediation Strategies In Two Sided Marketplace"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "E0B02E41-2BAA-479F-A2E9-E61687DB79C6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 5}, {742, 75}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,9 +73,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "63947156-F440-45AE-99A7-67AB82A856B2",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "0B65BCAE-22D9-4C38-A255-A9FFF381E77C",
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

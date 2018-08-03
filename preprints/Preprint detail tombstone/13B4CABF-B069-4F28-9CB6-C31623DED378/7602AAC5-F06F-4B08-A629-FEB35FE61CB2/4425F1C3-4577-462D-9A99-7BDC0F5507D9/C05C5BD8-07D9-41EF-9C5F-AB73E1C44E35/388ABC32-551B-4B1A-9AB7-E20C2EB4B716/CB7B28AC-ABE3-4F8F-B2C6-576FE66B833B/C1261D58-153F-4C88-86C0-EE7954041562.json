@@ -31,6 +31,7 @@
     "string": "business and corporate communications"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "C1261D58-153F-4C88-86C0-EE7954041562",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,6 +54,7 @@
     "y": 1
   },
   "glyphBounds": "{{1, 4}, {283, 15}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,9 +70,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "F1651368-ED75-4530-A7BA-3446EF83B940",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "28E4410F-F12C-49CC-8A37-E5C9084B0391",
@@ -94,7 +96,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

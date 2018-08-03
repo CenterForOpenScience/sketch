@@ -4,7 +4,7 @@
   "name": "Form: Button Label Secondary (Disabled)",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "shadows": [
       {
@@ -29,7 +29,7 @@
       }
     ],
     "sharedObjectID": "3A3DFC5E-336C-4230-AD9C-62BAFCF3FA20",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -55,6 +55,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

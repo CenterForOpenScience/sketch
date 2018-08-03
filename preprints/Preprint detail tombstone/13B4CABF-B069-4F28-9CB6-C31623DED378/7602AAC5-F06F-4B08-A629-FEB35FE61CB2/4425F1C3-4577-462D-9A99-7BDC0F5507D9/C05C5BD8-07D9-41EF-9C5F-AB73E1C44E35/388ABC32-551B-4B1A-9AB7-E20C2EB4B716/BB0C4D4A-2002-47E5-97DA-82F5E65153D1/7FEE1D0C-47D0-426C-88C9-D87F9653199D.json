@@ -31,6 +31,7 @@
     "string": "business"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "7FEE1D0C-47D0-426C-88C9-D87F9653199D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,6 +54,7 @@
     "y": 1
   },
   "glyphBounds": "{{1, 4}, {60, 12}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,9 +70,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "0D156CF4-C29A-4205-AD25-065914586544",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "94808D16-02C2-4BF3-9B3F-179AD4B8E3D4",
@@ -94,7 +96,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

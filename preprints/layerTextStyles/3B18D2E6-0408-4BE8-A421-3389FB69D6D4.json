@@ -4,10 +4,10 @@
   "name": "Form: Button Label (Disabled)",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "3B18D2E6-0408-4BE8-A421-3389FB69D6D4",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -33,6 +33,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }

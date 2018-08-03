@@ -163,6 +163,7 @@
     "string": "Thesis Commons uses post-moderation. Your paper was rejected by a moderator so it will remain private.\n \nIf you have addressed all moderator concerns or you think there has been a mistake, please email support+thesiscommons@osf.io to discuss resubmission."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "79A87A2E-5422-4F80-8DF1-498EF82352BC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -183,6 +184,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 4}, {857, 81}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -197,9 +199,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -224,7 +226,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

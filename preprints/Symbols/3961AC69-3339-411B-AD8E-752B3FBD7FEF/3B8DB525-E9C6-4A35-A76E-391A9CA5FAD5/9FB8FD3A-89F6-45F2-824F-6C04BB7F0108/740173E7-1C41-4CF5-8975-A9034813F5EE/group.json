@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "740173E7-1C41-4CF5-8975-A9034813F5EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2670F56-D6FC-44C1-8899-934EA1B5FD62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0501E6A8-781C-415C-B1F8-1DDC529AA9BE",
+    "height": 32,
+    "width": 805,
+    "x": 50,
+    "y": 48
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "264791C1-2CB1-4FBA-A2B4-FE6B26C36FAB"
+    },
+    {
+      "class": "text",
+      "id": "B02EFA13-2651-4FFE-9845-6C9623F69A5C"
+    },
+    {
+      "class": "text",
+      "id": "74853A5E-3DB4-4833-951A-E9C77A8A8394"
+    }
+  ],
+  "name": "select-box",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B5B0E20-159D-4D0F-A4AD-AB1786B311E4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

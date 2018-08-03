@@ -34,6 +34,7 @@
     "string": "Black Lives Matter in Wikipedia: Collaboration and Collective Memory around Online Social Movements"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "6D0FCA21-D359-4C49-9A68-AC05835CEC6E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +55,7 @@
     "y": 60
   },
   "glyphBounds": "{{1, 2}, {733, 104}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,9 +70,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -96,7 +98,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

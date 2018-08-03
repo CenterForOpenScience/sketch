@@ -24,6 +24,7 @@
   },
   "isClosed": true,
   "isEquilateral": false,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

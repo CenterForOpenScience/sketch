@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "E6E19C89-5510-406E-ABA1-75980A24551B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 238,
+    "width": 1440,
+    "x": 0,
+    "y": 1836
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E0505C6F-D313-453B-8505-E350FD061E96"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "295E86BB-BF70-4DFE-9826-4C59CCBE7CCD"
+    },
+    {
+      "class": "group",
+      "id": "9155F12C-0EFC-4B54-8E94-A35B0B6A9EB2"
+    },
+    {
+      "class": "group",
+      "id": "F4C4CA93-FC74-4AE2-BA9D-1A1470AA5C12"
+    },
+    {
+      "class": "group",
+      "id": "78815E56-A94D-4489-89D1-C9FB66986C63"
+    }
+  ],
+  "name": "cos-bottom-bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

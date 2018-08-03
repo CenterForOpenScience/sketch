@@ -31,6 +31,7 @@
     "string": "international business"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "D46EFBEB-3563-4FAC-9189-66C5CC2F361D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,6 +54,7 @@
     "y": 1
   },
   "glyphBounds": "{{1, 4}, {156, 12}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,9 +70,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "14DD5AE6-805F-45CD-A8B6-3D719C179954",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "07C05F37-4879-469F-B454-1B83608620A1",
@@ -94,7 +96,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

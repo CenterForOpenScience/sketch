@@ -32,6 +32,7 @@
     "string": "Social movements use social computing systems to complement offline mobilizations, but prior literature has focused almost exclusively on movement actors' use of social media. In this paper, we analyze participation and attention to topics connected with the Black Lives Matter movement in the English language version of Wikipedia between 2014 and 2016. Our results point to the use of Wikipedia to (1) intensively document and connect historical and contemporary events, (2) collaboratively migrate activity to support coverage of new events, and (3) dynamically re-appraise pre-existing knowledge in the aftermath of new events. These findings reveal patterns of behavior that complement theories of collective memory and collective action and help explain how social computing systems can encode and retrieve knowledge about social movements as they unfold."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "964A4EB1-BC70-4B8F-9327-156EC8740CBA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -52,6 +53,7 @@
     "y": 155
   },
   "glyphBounds": "{{0, 3}, {845, 117}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -66,9 +68,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -92,7 +94,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

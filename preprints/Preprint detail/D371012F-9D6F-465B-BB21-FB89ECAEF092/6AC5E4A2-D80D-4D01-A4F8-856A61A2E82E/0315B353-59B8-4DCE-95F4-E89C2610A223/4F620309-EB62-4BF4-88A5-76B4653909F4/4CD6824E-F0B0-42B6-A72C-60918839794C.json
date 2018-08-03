@@ -91,6 +91,7 @@
     "string": "Marlon Twyman, Brian Keegan, Aaron Shaw"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "4CD6824E-F0B0-42B6-A72C-60918839794C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -111,6 +112,7 @@
     "y": 0
   },
   "glyphBounds": "{{1, 3}, {274, 15}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -125,9 +127,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -147,7 +149,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

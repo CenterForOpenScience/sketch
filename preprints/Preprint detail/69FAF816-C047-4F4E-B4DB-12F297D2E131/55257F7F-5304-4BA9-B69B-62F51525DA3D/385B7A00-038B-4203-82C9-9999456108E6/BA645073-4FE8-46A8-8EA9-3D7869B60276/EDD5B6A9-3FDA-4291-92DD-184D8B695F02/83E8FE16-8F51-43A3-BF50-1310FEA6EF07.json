@@ -33,6 +33,7 @@
     "string": "Social movements use social computing systems to complement offline mobilizations, but prior literature has focused almost exclusively on movement actors' use of social media. In this paper, we analyze participation and attention to topics connected with the Black Lives Matter movement in the English language version of Wikipedia between 2014 and…"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "83E8FE16-8F51-43A3-BF50-1310FEA6EF07",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,6 +54,7 @@
     "y": 43
   },
   "glyphBounds": "{{0, 2}, {420, 94}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,9 +69,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -94,7 +96,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

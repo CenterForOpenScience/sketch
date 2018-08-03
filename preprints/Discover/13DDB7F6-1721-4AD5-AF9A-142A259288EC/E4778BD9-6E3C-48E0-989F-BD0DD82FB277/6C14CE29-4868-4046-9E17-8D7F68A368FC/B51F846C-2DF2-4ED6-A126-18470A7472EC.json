@@ -31,6 +31,7 @@
     "string": "In order to increase the replicability of scientific work, the scientific community has called for practices designed to increase the transparency of research (McNutt, 2014; Nosek et al., 2015). The validity of a scientific claim depends not on the reputation of those making the claim, the venue in..."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "B51F846C-2DF2-4ED6-A126-18470A7472EC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -51,6 +52,7 @@
     "y": 154
   },
   "glyphBounds": "{{1, 4}, {712, 53}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -65,9 +67,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -90,7 +92,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2,
   "userInfo": {

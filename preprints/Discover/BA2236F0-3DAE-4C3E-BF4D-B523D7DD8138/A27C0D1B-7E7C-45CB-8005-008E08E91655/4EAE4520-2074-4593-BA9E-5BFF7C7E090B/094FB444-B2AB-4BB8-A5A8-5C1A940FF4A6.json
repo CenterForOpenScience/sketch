@@ -31,6 +31,7 @@
     "string": "Registered Reports (RRs) is a publishing model in which initial peer review is conducted prior to knowing the outcomes of the research. In-principle acceptance of papers at this review stage combats publication bias, and provides a clear distinction between confirmatory and exploratory research. Som..."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "094FB444-B2AB-4BB8-A5A8-5C1A940FF4A6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -51,6 +52,7 @@
     "y": 134
   },
   "glyphBounds": "{{0, 4}, {690, 53}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -65,9 +67,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -90,7 +92,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2,
   "userInfo": {

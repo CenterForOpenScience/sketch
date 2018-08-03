@@ -31,6 +31,7 @@
     "string": "Existing norms for scientific communication are rooted in anachronistic practices of bygone eras, making them needlessly inefficient. We outline a path that moves away from the existing model of scientific communication to improve the efficiency in meeting the purpose of public science – knowledge a..."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "2B40FBC4-CCE0-434B-8966-5C410BF3A896",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -51,6 +52,7 @@
     "y": 134
   },
   "glyphBounds": "{{1, 4}, {698, 53}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -65,9 +67,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -90,7 +92,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2,
   "userInfo": {

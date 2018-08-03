@@ -31,6 +31,7 @@
     "string": "The Center for Open Science (COS) and technical partners propose to extend its open infrastructure to support ASAPbio's call for a central service. COS's approach is community based and is accompanied by letters of support from 12 preprint services (e.g., arXiv, bioRxiv, SocArXiv), 15 data repositor..."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "5FB4B81D-09A0-40BD-B22D-067CCD1A77E1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -51,6 +52,7 @@
     "y": 153
   },
   "glyphBounds": "{{0, 4}, {707, 53}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -65,9 +67,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -90,7 +92,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2,
   "userInfo": {

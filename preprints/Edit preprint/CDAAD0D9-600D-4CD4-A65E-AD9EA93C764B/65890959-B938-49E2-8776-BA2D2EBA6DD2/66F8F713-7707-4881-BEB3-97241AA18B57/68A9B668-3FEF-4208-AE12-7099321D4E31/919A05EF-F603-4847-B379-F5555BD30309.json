@@ -132,6 +132,7 @@
     "string": "Thesis Commons: Support | Contact "
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "919A05EF-F603-4847-B379-F5555BD30309",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -152,6 +153,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 1}, {228, 15}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -166,9 +168,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -192,7 +194,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }
