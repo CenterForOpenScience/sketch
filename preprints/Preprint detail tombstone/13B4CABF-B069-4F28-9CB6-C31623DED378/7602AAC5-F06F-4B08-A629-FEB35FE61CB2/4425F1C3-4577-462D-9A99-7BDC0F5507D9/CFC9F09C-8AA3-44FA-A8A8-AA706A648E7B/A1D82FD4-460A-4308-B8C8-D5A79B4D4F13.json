@@ -32,6 +32,7 @@
     "string": "Preprint DOI"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "A1D82FD4-460A-4308-B8C8-D5A79B4D4F13",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +55,7 @@
     "y": 29
   },
   "glyphBounds": "{{1, 5}, {111, 19}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,9 +71,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "C1C34107-99EF-4B45-8706-C9B7CA46FE24",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "7A9CC00A-2C02-4FA6-9DDC-9BC2AB14A0B1",
@@ -96,7 +98,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

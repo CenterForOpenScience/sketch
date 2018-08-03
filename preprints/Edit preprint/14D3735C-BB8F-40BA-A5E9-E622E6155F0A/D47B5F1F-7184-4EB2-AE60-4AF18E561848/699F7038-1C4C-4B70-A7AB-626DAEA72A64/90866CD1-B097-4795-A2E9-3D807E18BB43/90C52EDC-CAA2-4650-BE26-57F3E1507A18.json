@@ -182,6 +182,7 @@
     "string": "SocArXiv: About | Support | Contact | "
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "90C52EDC-CAA2-4650-BE26-57F3E1507A18",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -202,6 +203,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 1}, {231, 15}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -216,9 +218,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -242,7 +244,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

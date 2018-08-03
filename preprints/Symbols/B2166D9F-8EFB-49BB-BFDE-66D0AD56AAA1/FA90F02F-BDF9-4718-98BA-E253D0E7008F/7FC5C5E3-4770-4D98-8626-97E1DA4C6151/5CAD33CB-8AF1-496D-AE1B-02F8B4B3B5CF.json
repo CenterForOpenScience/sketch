@@ -16,13 +16,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 502,
+    "height": 516,
     "width": 944,
     "x": 0,
     "y": 0
   },
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

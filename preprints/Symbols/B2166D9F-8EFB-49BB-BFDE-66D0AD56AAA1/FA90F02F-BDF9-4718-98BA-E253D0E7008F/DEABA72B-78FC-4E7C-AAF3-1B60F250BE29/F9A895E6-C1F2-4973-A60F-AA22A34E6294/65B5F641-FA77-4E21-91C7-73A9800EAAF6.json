@@ -25,13 +25,14 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 57,
+        "length": 88,
         "location": 0
       }
     ],
-    "string": "Add keywords to increase discoverability of your preprint"
+    "string": "Add keywords to increase discoverability of your preprint. Type keyword, then hit enter."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "65B5F641-FA77-4E21-91C7-73A9800EAAF6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -48,12 +49,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D78F5E98-FDBF-4C7A-B048-52FB0753BA75",
-    "height": 17,
-    "width": 318,
+    "height": 34,
+    "width": 420,
     "x": 0,
     "y": 22
   },
-  "glyphBounds": "{{0, 3}, {318, 13}}",
+  "glyphBounds": "{{0, 3}, {403, 28}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,9 +71,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "58CBB256-0EAB-4B58-89BD-38B92D13F20A",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "36E2AE94-A495-435E-A42F-72665E86AED2",
@@ -96,7 +98,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

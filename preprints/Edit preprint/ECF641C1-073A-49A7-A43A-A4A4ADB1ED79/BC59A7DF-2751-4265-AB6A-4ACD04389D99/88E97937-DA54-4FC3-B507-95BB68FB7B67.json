@@ -85,6 +85,7 @@
     "string": "SocArXiv uses pre-moderation, therefore your preprint will not become publicly accessible until a moderator accepts the submission.\n \nOnce you have addressed any moderator concerns, you may resubmit for review."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "88E97937-DA54-4FC3-B507-95BB68FB7B67",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -105,6 +106,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 4}, {787, 81}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -119,9 +121,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -146,7 +148,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

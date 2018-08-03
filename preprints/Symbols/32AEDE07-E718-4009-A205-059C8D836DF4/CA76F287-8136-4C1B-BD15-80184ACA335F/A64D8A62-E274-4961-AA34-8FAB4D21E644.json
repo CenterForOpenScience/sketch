@@ -16,6 +16,32 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
+              "name": "OpenSans-Bold",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0
+          }
+        },
+        "length": 134,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2666666667,
+            "green": 0.2666666667,
+            "red": 0.2666666667
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
               "name": "OpenSans",
               "size": 18
             }
@@ -26,13 +52,14 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 304,
-        "location": 0
+        "length": 170,
+        "location": 134
       }
     ],
-    "string": "When you create this preprint, it will be assigned a DOI and become publicly accessible via OSF. The preprint file cannot be deleted, but it can be updated or modified.\n\nBy creating this preprint, you confirm that all contributors agree with sharing it and that you have the right to share this preprint."
+    "string": "By creating this preprint, you confirm that all contributors agree with sharing it and that you have the right to share this preprint.\n\nWhen you create this preprint, it will be assigned a DOI and become publicly accessible via OSF. The preprint file cannot be deleted, but it can be updated or modified."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "A64D8A62-E274-4961-AA34-8FAB4D21E644",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,13 +80,14 @@
     "y": 0
   },
   "glyphBounds": "{{0, 5}, {933, 115}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "When you create this",
+  "name": "By creating this pre",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -67,9 +95,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -83,7 +111,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans",
+            "name": "OpenSans-Bold",
             "size": 18
           }
         },
@@ -94,7 +122,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

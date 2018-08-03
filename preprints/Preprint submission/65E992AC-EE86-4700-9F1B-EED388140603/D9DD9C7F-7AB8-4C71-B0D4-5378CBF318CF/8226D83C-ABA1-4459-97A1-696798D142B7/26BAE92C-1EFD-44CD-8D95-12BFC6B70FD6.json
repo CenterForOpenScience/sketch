@@ -31,6 +31,7 @@
     "string": "Contact"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "26BAE92C-1EFD-44CD-8D95-12BFC6B70FD6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,6 +54,7 @@
     "y": 50
   },
   "glyphBounds": "{{0, 3}, {52, 12}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,7 +70,7 @@
   "style": {
     "_class": "style",
     "do_objectID": "1E7497DC-9149-4F43-98C9-5BCB73774A29",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "shadows": [
       {
@@ -92,7 +94,7 @@
         "spread": 0
       }
     ],
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "D7D6BBB0-7E9B-4B01-9231-509EE02E233E",
@@ -116,7 +118,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

@@ -85,6 +85,7 @@
     "string": "When you create this paper, it will be assigned a DOI. You will be unable to delete the paper file, but you can update or modify it. The related OSF project can be used to manage supplementary materials, appendices, data, or protocols for your paper.\n\nBy creating the paper, you confirm that all contributors agree with sharing this preprint, and that you have the right to share it.\n\nThesis Commons uses post-moderation. Therefore your paper will become publicly accessible after creation and will only become private if rejected by a moderator."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "D3E8309C-538C-45FC-B58A-C0208B0356CC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -105,6 +106,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {875, 187}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -119,9 +121,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -146,7 +148,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

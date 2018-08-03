@@ -4,7 +4,7 @@
   "name": "#overlay-shape",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -25,6 +25,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "AFC5E039-568F-4D07-BF8A-CFB46C00137A",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

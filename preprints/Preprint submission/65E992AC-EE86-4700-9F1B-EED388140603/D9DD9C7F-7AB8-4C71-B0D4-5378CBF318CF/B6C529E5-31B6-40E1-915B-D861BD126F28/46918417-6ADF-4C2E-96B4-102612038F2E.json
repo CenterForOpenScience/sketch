@@ -151,6 +151,7 @@
     "string": "Copyright © 2011-2017 Center for Open Science | Terms of Use | Privacy Policy"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "46918417-6ADF-4C2E-96B4-102612038F2E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -173,6 +174,7 @@
     "y": 27
   },
   "glyphBounds": "{{0, 1}, {499, 15}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -188,9 +190,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "7BBB1EC4-CE5F-4061-8FAE-E1CE3C43BD13",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "A5D4CE80-ADDF-4C0A-B1DA-CDD93993A43F",
@@ -214,7 +216,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

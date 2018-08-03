@@ -25,13 +25,14 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 5,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Title"
+    "string": "Preprint Title"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "E6757FF6-B7ED-4192-86D6-92E986484E69",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -47,18 +48,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 20,
-    "width": 34,
+    "width": 100,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 4}, {33, 13}}",
+  "glyphBounds": "{{1, 4}, {98, 16}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Title",
+  "name": "Preprint Title",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -66,9 +68,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -92,7 +94,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

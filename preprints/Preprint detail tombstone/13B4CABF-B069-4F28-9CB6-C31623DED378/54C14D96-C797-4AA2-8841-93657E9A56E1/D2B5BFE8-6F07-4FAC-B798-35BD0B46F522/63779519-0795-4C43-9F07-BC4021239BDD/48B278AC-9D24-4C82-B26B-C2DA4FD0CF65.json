@@ -31,6 +31,7 @@
     "string": "Created on: November 02, 2016 | Withdrawn on: May 31, 2017"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "48B278AC-9D24-4C82-B26B-C2DA4FD0CF65",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,6 +54,7 @@
     "y": 22
   },
   "glyphBounds": "{{0, 4}, {407, 15}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,9 +70,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "72205B6B-1DB6-4AFD-9780-53CA41BCE34D",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "47F2C3E3-8477-4237-B7C5-91FA1EB9B0A0",
@@ -94,7 +96,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

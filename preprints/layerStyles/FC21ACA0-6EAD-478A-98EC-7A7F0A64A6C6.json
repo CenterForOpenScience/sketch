@@ -4,7 +4,7 @@
   "name": "@Property / Layer",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
@@ -25,6 +25,7 @@
     ],
     "miterLimit": 10,
     "sharedObjectID": "FC21ACA0-6EAD-478A-98EC-7A7F0A64A6C6",
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   }
 }

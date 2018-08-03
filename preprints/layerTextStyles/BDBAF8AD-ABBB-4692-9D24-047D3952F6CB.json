@@ -4,7 +4,7 @@
   "name": "Form: Button Label",
   "value": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "shadows": [
       {
@@ -29,7 +29,7 @@
       }
     ],
     "sharedObjectID": "BDBAF8AD-ABBB-4692-9D24-047D3952F6CB",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -55,6 +55,7 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   }
 }
