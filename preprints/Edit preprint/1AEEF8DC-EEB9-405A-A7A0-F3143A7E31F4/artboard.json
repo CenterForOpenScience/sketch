@@ -55,8 +55,16 @@
       "id": "4F60D399-C747-487D-A081-B057A307D00B"
     },
     {
-      "class": "group",
-      "id": "4A45728C-36F2-4E88-8DB5-DAD51189EA11"
+      "class": "text",
+      "id": "1DB3B4E9-7995-4604-993A-86C6D5D313D6"
+    },
+    {
+      "class": "text",
+      "id": "970E1AC8-A44B-4ADC-981C-183EF51F60DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBAD2EEF-B5A6-4094-9064-45D24168AFCC"
     },
     {
       "class": "shapeGroup",

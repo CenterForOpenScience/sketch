@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "5D83AC28-84C5-4746-B6A0-A982044385E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "720A26E4-2A33-4504-8E88-40CA96F34FB8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E56C944-8B6C-440C-8AE4-1D9E8910A158",
+    "height": 16,
+    "width": 327,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4CAD6C35-9F22-475E-9695-F5B3B885A41E"
+    },
+    {
+      "class": "text",
+      "id": "A72B1607-9EE9-42D2-8985-DF1E5EB44672"
+    },
+    {
+      "class": "text",
+      "id": "5B76BA7A-C667-4A92-BAF7-777078EF625B"
+    }
+  ],
+  "name": "journal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D65BE598-4385-4BE7-91D4-0554498A9199",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

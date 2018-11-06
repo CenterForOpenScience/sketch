@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 62,
     "width": 1440,
-    "x": 0,
+    "x": 5,
     "y": 314
   },
   "horizontalSpacing": 0,
@@ -33,7 +33,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

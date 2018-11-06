@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "5DED0F48-0133-461C-BCDA-7BE223B56544",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A5CE730-ED2A-4CE1-9700-3DEFD4FEC7FD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "95200600-67D0-42B0-8A81-B456B0A040A1",
+    "height": 28,
+    "width": 101,
+    "x": 1178,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E38654BF-46CD-43AB-83DC-0FB0AB7FA884"
+    },
+    {
+      "class": "text",
+      "id": "B20F8910-6D39-4332-A317-57E4DB0297BF"
+    }
+  ],
+  "name": "btn-edit-preprint",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "394409D4-CDE3-48B4-9CA7-C2A98387B636",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

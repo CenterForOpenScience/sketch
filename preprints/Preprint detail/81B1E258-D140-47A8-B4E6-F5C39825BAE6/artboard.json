@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1253,
+    "height": 1805,
     "width": 1440,
     "x": 6670,
     "y": -363
@@ -48,11 +48,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "7704B3B8-DBB9-4AF9-83E9-70B675C338AA"
+      "class": "group",
+      "id": "D347DD64-C794-417D-99A4-23141DB14B27"
     },
     {
       "class": "group",

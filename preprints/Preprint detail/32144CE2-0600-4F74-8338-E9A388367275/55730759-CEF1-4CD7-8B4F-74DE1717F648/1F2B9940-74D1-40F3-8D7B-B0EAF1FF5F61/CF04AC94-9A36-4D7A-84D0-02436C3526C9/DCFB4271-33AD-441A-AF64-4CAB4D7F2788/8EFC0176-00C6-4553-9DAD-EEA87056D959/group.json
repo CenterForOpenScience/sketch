@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "8EFC0176-00C6-4553-9DAD-EEA87056D959",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6CC01DD9-D0D8-4220-A4FF-FCF92F088D02",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F4A277A-41AC-46EB-AB32-71789F4F90F6",
+    "height": 36,
+    "width": 108,
+    "x": 242,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D5A42CC9-C6EF-4B0E-9DAF-41CC019BBAD0"
+    },
+    {
+      "class": "text",
+      "id": "FC7511BF-7797-473D-A43C-DEDBB33C580C"
+    }
+  ],
+  "name": "visit-project-btn",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "99F5D2D3-BE99-445F-9CAC-5CB3FFC63653",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

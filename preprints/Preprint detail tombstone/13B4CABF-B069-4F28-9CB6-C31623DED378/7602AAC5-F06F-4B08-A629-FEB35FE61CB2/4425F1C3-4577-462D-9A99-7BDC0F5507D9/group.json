@@ -16,10 +16,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "98D0A503-8949-4C33-9DC3-A1A0252B5EBD",
-    "height": 598,
+    "height": 728,
     "width": 660,
     "x": 161,
-    "y": 158
+    "y": 83
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -48,6 +48,10 @@
     {
       "class": "group",
       "id": "4E2F5681-FF68-46C0-B398-2376A9D904DA"
+    },
+    {
+      "class": "group",
+      "id": "0037E1F5-353D-4574-ADEE-FA405F0FBE41"
     }
   ],
   "name": "metadata",

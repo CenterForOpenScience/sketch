@@ -105,6 +105,14 @@
     {
       "class": "group",
       "id": "9F36088C-7EC0-42F9-B010-E0A81F6D8C8B"
+    },
+    {
+      "class": "text",
+      "id": "0DC6CB50-6731-47DE-972F-DF8D381EC6B9"
+    },
+    {
+      "class": "text",
+      "id": "CE11C43C-C33C-4233-BFF5-E5156BAC7901"
     }
   ],
   "name": "edit-preprint-rejected-pre",

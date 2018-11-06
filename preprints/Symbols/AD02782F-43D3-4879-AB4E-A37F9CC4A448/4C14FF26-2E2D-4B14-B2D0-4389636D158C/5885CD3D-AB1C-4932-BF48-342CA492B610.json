@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "OpenSans-Light",
+              "name": "HelveticaNeue-Thin",
               "size": 36
             }
           },
@@ -47,12 +47,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 49,
-    "width": 247,
-    "x": 597,
-    "y": 157
+    "height": 43,
+    "width": 223,
+    "x": 609,
+    "y": 160
   },
-  "glyphBounds": "{{2, 11}, {244, 36}}",
+  "glyphBounds": "{{1, 8}, {221, 34}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -84,7 +84,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "OpenSans-Light",
+            "name": "HelveticaNeue-Thin",
             "size": 36
           }
         },

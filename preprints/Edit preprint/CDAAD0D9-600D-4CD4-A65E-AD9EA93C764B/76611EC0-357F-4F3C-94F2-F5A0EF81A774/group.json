@@ -15,8 +15,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 76,
-    "width": 161,
-    "x": 1006,
+    "width": 176,
+    "x": 992,
     "y": 1169
   },
   "hasClickThrough": false,
@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -33,7 +33,7 @@
     },
     {
       "class": "group",
-      "id": "B0C3B0CA-6A05-4BA9-8261-8219CFCEDAAA"
+      "id": "571803C3-4611-459D-BEB9-81E2A45B843E"
     }
   ],
   "name": "update-block",

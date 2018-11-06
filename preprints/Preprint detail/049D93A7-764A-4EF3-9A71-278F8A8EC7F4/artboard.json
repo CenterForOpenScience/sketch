@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "049D93A7-764A-4EF3-9A71-278F8A8EC7F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1807,
+    "width": 1440,
+    "x": 9750,
+    "y": 3637
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F6029609-1E16-4493-A7C4-82516149FB33"
+    },
+    {
+      "class": "group",
+      "id": "93973865-63D8-45CA-BE01-EFD6906827A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31E3A9FA-5F30-40EF-9E73-A44C66E42453"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "061F758D-7E7F-4E61-8523-67669FB1AFDF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1353FF0D-BF85-4AFD-9DF3-56B21EF610E3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B9FC7923-C677-48DE-921C-B295A3481FD7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "29811E91-3A48-49D3-8C7D-7A7A0657F78B"
+    }
+  ],
+  "name": "preprint-detail-base",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

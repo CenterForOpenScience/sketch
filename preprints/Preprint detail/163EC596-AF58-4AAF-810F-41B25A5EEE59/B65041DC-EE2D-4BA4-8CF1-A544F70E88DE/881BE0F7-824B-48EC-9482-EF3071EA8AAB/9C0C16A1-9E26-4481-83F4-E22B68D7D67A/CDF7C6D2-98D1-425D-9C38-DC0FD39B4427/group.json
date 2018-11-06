@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "CDF7C6D2-98D1-425D-9C38-DC0FD39B4427",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 439,
+    "x": 0,
+    "y": 1124
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "463AFAEF-4EF0-4EC2-98BC-E819A219DD65"
+    },
+    {
+      "class": "bitmap",
+      "id": "A9D6A29C-DDEB-4CA0-ACF0-739A5BDA1DEB"
+    },
+    {
+      "class": "text",
+      "id": "728F56DF-18B7-489A-BD39-F81924B961A5"
+    },
+    {
+      "class": "group",
+      "id": "CD44F643-DD90-4E55-90E1-525DEFB3EBC3"
+    }
+  ],
+  "name": "view-on-osf",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8E7561FE-4548-446E-B7E1-5ED586F62376",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92547AEA-177C-45CF-9583-85D2BA216C55",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F1318C2-2FDA-4428-A391-53E2D3682355",
+    "height": 146,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "54BC6840-3CC8-466C-B4D5-C1D1153418EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2E316D2-8759-4E8A-8046-472084382A4B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B0EA5AF-5310-4A70-BEAF-9953690ABA45"
+    },
+    {
+      "class": "text",
+      "id": "70889578-982C-49A2-A691-462A47598D45"
+    },
+    {
+      "class": "text",
+      "id": "1D93EDCB-6CB8-4E7F-BD29-32B1B08E1879"
+    },
+    {
+      "class": "group",
+      "id": "A685E85F-F500-45ED-976E-193291697401"
+    }
+  ],
+  "name": "footer-socarxiv",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D18F99AC-DE2B-4D4D-B344-5CC5364D13C4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -1,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

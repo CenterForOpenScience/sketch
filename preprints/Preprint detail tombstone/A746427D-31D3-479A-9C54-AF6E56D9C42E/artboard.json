@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1074,
+    "height": 1140,
     "width": 1440,
     "x": 9960,
     "y": -363
@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -63,7 +63,7 @@
       "id": "1426B920-D532-4B1B-B161-9B35B09F7F0A"
     }
   ],
-  "name": "preprint-detail-tombstone-no-message",
+  "name": "preprint-detail-tombstone-no-message-non-contrib",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

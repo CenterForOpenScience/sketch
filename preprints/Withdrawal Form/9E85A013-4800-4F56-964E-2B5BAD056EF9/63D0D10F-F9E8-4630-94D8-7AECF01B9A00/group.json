@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "63D0D10F-F9E8-4630-94D8-7AECF01B9A00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27DA8460-FF91-4C8C-B665-418E3D9E0F2E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14D261D4-E474-472C-A976-B3666274781B",
+    "height": 146,
+    "width": 1440,
+    "x": 0,
+    "y": 736
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D432BB62-D07A-4620-835F-020FCBB139D7"
+    }
+  ],
+  "name": "footer/socarxiv",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "895C468F-78BA-4AEE-B52B-62B02C052E91",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

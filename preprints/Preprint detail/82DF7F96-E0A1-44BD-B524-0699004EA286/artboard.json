@@ -1,0 +1,114 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "do_objectID": "82DF7F96-E0A1-44BD-B524-0699004EA286",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1401,
+    "width": 1440,
+    "x": 6670,
+    "y": 3637
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D0564F68-A21E-4E03-8A89-05A2C8CEB26A"
+    },
+    {
+      "class": "group",
+      "id": "B44F2505-3658-4881-BEEF-15CAC4D436C6"
+    },
+    {
+      "class": "group",
+      "id": "7420B8FA-7335-4B7F-9853-83ECE1409EA2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A8E6767E-220D-421A-B13E-52B9824B7344"
+    },
+    {
+      "class": "group",
+      "id": "7559B607-A4BB-448C-95F7-6ADE64AB53A0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7DE276A-D1E9-4779-92FE-E6ECAB5C01BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD90726F-23BC-47F8-9C54-55DCC83DEB65"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "228E62DE-9C79-4B4F-A140-16A66B027CF4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B2CD8FC-7A46-4198-AD6A-23AC8B137D8D"
+    },
+    {
+      "class": "text",
+      "id": "369BD1D0-282F-4D0D-91A1-B6B307AF54CC"
+    }
+  ],
+  "name": "preprint-detail-pending-withdrawal",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

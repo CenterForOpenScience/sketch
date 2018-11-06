@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 41,
     "width": 176,
-    "x": 0.4110099805400296,
+    "x": 0,
     "y": 35
   },
   "hasClickThrough": false,
@@ -25,15 +25,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "8538CE2D-85F1-4C7D-BD32-17B1D07EB33F"
-    },
-    {
-      "class": "text",
-      "id": "018AC3FB-4386-4EC9-9E9E-D57AD3C2BF58"
+      "class": "group",
+      "id": "5182DCF7-9EC4-4098-87CB-DDF7E3ED6D3A"
     }
   ],
   "name": "Dynamic group",
