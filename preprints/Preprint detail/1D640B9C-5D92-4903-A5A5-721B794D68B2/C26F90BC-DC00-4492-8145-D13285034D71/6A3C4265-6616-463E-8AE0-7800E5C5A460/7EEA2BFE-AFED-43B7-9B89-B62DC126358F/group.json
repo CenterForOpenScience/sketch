@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "7EEA2BFE-AFED-43B7-9B89-B62DC126358F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 146,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "29720E47-C838-4B0C-97F9-0316D87D7F93"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B66C2DBC-50C6-4E65-8B75-C6DD5DF3AAF4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "09FE0DEA-96F3-431A-98FB-F9BD40B44270"
+    },
+    {
+      "class": "text",
+      "id": "A11ECA57-69D0-47BC-8A9F-9AB05F71B692"
+    },
+    {
+      "class": "text",
+      "id": "5152C801-07A2-47C2-93B7-F335F7A06DF9"
+    },
+    {
+      "class": "group",
+      "id": "6EE399A8-381A-4056-8580-F0FEF04A751B"
+    }
+  ],
+  "name": "footer-socarxiv",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 0,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.8
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -1,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

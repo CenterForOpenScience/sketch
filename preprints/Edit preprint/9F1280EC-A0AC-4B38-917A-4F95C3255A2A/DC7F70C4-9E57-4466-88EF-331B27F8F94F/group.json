@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -46,10 +46,6 @@
     {
       "class": "shapeGroup",
       "id": "614EF814-186D-48D0-BE8F-4D40320F1B51"
-    },
-    {
-      "class": "group",
-      "id": "8EB872CB-9C4A-4750-943C-228C441321FD"
     }
   ],
   "name": "update-block",

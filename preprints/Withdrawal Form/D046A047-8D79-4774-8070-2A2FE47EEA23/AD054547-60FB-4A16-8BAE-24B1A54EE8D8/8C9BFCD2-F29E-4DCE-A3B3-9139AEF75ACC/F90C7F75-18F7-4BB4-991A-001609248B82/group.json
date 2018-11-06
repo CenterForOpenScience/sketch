@@ -1,0 +1,51 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "F90C7F75-18F7-4BB4-991A-001609248B82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31EBABCA-610B-45D0-B0E8-CA95DA4B2C16",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3514BE6-6007-44CC-AD4F-855F2C249B58",
+    "height": 16,
+    "width": 233,
+    "x": 604,
+    "y": 35
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "A0C18D34-D93C-4B1D-A658-EC1FFFBFA810"
+    }
+  ],
+  "name": "thesiscommons-info",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE7BDA77-81D0-4A35-B783-4AABD4E9F55B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

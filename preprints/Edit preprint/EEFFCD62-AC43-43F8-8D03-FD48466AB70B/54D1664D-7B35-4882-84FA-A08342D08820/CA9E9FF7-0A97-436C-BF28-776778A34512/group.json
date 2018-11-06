@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
-    "width": 318,
-    "x": 575,
-    "y": 110
+    "height": 1249,
+    "width": 891,
+    "x": 2,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -25,15 +25,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "54D1B9CD-BCAC-4FE9-A04E-2FD579B790FA"
     },
     {
+      "class": "text",
+      "id": "56453440-A2C6-4556-8D5B-C8EB9C66F4B0"
+    },
+    {
+      "class": "text",
+      "id": "E03F9A68-784E-4C86-AD82-A7E18562C009"
+    },
+    {
       "class": "group",
-      "id": "BDC6CE57-66E4-476A-9F5E-4E2556B46813"
+      "id": "7F95F505-A92F-44E3-891F-B5A099924362"
     }
   ],
   "name": "buttons",

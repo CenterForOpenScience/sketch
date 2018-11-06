@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "A685E85F-F500-45ED-976E-193291697401",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17D8F198-0C8C-4BD7-B796-892E146649C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "405E6E1B-3D5C-4052-9639-32C2D3CC8054",
+    "height": 16,
+    "width": 277,
+    "x": 582,
+    "y": 35
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B353C8B5-E5BB-4022-8A1E-4BAC1139AD7C"
+    },
+    {
+      "class": "text",
+      "id": "1A7F1B8D-9C3E-46E3-816D-0ECDE67C7823"
+    },
+    {
+      "class": "text",
+      "id": "E67A6E34-E110-4E54-A76F-10659FB5E360"
+    },
+    {
+      "class": "text",
+      "id": "1FD164A6-7CF6-4C5B-9BD1-FC5B8DC49150"
+    }
+  ],
+  "name": "socarxiv-info",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD67C2EE-3684-4024-83A8-96906F6E7AF3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

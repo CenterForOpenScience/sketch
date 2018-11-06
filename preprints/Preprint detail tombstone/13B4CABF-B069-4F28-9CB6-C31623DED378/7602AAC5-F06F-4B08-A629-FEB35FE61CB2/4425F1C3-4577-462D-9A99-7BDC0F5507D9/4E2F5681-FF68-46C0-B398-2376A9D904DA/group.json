@@ -19,7 +19,7 @@
     "height": 183,
     "width": 660,
     "x": 0,
-    "y": 0
+    "y": 130
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",

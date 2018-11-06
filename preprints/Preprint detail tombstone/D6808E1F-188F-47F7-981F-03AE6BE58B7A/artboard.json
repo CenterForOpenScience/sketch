@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1173,
+    "height": 1217,
     "width": 1440,
     "x": 11639,
     "y": -363
@@ -33,7 +33,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -63,7 +63,7 @@
       "id": "9492C70E-1492-4EDD-A635-27706A8C766D"
     }
   ],
-  "name": "preprint-detail-moderated-tombstone",
+  "name": "preprint-detail-moderated-tombstone-non-contrib",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

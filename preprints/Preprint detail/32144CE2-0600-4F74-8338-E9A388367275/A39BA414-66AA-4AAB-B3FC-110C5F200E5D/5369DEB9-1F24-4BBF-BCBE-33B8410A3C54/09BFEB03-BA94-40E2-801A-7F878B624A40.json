@@ -1,0 +1,73 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "09BFEB03-BA94-40E2-801A-7F878B624A40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E6BDD69-9822-487F-84E2-6EBE6F11C3F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4EC9A699-14E7-4947-9ACA-AB086D0BC970",
+    "height": 720,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1ee5f2cbe29d86c4bc53b3c3b36478a5b0ca605b.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dark-overlay",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0801A5E-66BF-442F-8893-E680C7D2351A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 800,
+            "enabled": 1,
+            "modelID": "constraint_96e653c8-f5cb-44fd-8fa6-1497f24d9c7e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 1600
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c625b88a-938f-47a1-87c4-59ca06707029",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

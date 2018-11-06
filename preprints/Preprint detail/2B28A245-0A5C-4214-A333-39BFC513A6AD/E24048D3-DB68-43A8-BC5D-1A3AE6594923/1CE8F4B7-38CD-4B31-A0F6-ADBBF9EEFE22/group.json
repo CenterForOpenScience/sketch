@@ -40,8 +40,12 @@
       "id": "0510BCDE-BE14-45E7-969D-1935F35B6BE3"
     },
     {
+      "class": "text",
+      "id": "1BBD2765-E9D7-4CA0-8E60-F05FB461AC1E"
+    },
+    {
       "class": "group",
-      "id": "3D36E6AA-07FD-4722-854C-C0FA34E70EED"
+      "id": "7C00CBF6-AC0C-4465-9C3F-80C97DC529E5"
     }
   ],
   "name": "header",
